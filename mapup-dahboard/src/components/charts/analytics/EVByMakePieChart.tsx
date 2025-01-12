@@ -11,13 +11,13 @@ import makeData from "@/assets/data/evs_make.json";
 
 const EVByMakePieChart: React.FC = () => {
   const above1000 = Object.entries(makeData.makeAnalysis)
-    .filter(([make, count]) => count > 1000)
+    .filter(([, count]) => count > 1000)
     .map(([make, count]) => ({ name: make, value: count }));
 
   // Combine data for makes with 1000 or fewer vehicles into "Others"
   const below1000 = Object.entries(makeData.makeAnalysis)
-    .filter(([make, count]) => count <= 1000)
-    .reduce((acc, [make, count]) => acc + count, 0);
+    .filter(([, count]) => count <= 1000)
+    .reduce((acc, [, count]) => acc + count, 0);
 
   const data = [...above1000, { name: "Others", value: below1000 }];
 
@@ -39,7 +39,7 @@ const EVByMakePieChart: React.FC = () => {
           outerRadius={100}
           label
         >
-          {data.map((entry, index) => (
+          {data.map((_entry, index) => (
             <Cell key={`cell-${index}`} fill={COLORS[index % COLORS.length]} />
           ))}
         </Pie>

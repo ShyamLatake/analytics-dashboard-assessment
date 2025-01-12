@@ -1,13 +1,13 @@
+/* eslint-disable @typescript-eslint/no-explicit-any */
 import React, { useEffect, useState } from "react";
 import viehcalData from "../assets/data/vehicle_population_data.json";
 
 import Table from "@/components/ui/Table";
 import EVByCountyChart from "@/components/charts/geographic/EVByCountyChart";
 import EVByCityLineChart from "@/components/charts/geographic/EVByCityLineChart";
-import Record from "@/utils/interfaces/dataHandling";
 
 const GeographicInsights: React.FC = () => {
-  const [vehicalData, setVehicalData] = useState<Record | null>(null);
+  const [vehicalData, setVehicalData] = useState<any | null>(null);
   useEffect(() => setVehicalData(viehcalData), []);
 
   return (
