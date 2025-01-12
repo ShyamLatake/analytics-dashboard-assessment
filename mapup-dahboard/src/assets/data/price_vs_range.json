@@ -1,0 +1,3736 @@
+{
+  "analysisData": [
+    {
+      "electricRange": 93,
+      "baseMSRP": 32250
+    },
+    {
+      "electricRange": 93,
+      "baseMSRP": 31950
+    },
+    {
+      "electricRange": 208,
+      "baseMSRP": 69900
+    },
+    {
+      "electricRange": 208,
+      "baseMSRP": 69900
+    },
+    {
+      "electricRange": 14,
+      "baseMSRP": 44100
+    },
+    {
+      "electricRange": 93,
+      "baseMSRP": 31950
+    },
+    {
+      "electricRange": 14,
+      "baseMSRP": 45600
+    },
+    {
+      "electricRange": 208,
+      "baseMSRP": 69900
+    },
+    {
+      "electricRange": 208,
+      "baseMSRP": 69900
+    },
+    {
+      "electricRange": 93,
+      "baseMSRP": 31950
+    },
+    {
+      "electricRange": 32,
+      "baseMSRP": 39995
+    },
+    {
+      "electricRange": 208,
+      "baseMSRP": 69900
+    },
+    {
+      "electricRange": 208,
+      "baseMSRP": 69900
+    },
+    {
+      "electricRange": 93,
+      "baseMSRP": 31950
+    },
+    {
+      "electricRange": 14,
+      "baseMSRP": 54950
+    },
+    {
+      "electricRange": 16,
+      "baseMSRP": 53400
+    },
+    {
+      "electricRange": 17,
+      "baseMSRP": 34995
+    },
+    {
+      "electricRange": 208,
+      "baseMSRP": 69900
+    },
+    {
+      "electricRange": 15,
+      "baseMSRP": 55700
+    },
+    {
+      "electricRange": 208,
+      "baseMSRP": 69900
+    },
+    {
+      "electricRange": 17,
+      "baseMSRP": 52900
+    },
+    {
+      "electricRange": 208,
+      "baseMSRP": 69900
+    },
+    {
+      "electricRange": 93,
+      "baseMSRP": 31950
+    },
+    {
+      "electricRange": 19,
+      "baseMSRP": 64950
+    },
+    {
+      "electricRange": 17,
+      "baseMSRP": 52900
+    },
+    {
+      "electricRange": 93,
+      "baseMSRP": 31950
+    },
+    {
+      "electricRange": 14,
+      "baseMSRP": 54950
+    },
+    {
+      "electricRange": 208,
+      "baseMSRP": 69900
+    },
+    {
+      "electricRange": 17,
+      "baseMSRP": 52900
+    },
+    {
+      "electricRange": 33,
+      "baseMSRP": 102000
+    },
+    {
+      "electricRange": 111,
+      "baseMSRP": 33950
+    },
+    {
+      "electricRange": 265,
+      "baseMSRP": 59900
+    },
+    {
+      "electricRange": 208,
+      "baseMSRP": 69900
+    },
+    {
+      "electricRange": 93,
+      "baseMSRP": 31950
+    },
+    {
+      "electricRange": 16,
+      "baseMSRP": 53400
+    },
+    {
+      "electricRange": 208,
+      "baseMSRP": 69900
+    },
+    {
+      "electricRange": 208,
+      "baseMSRP": 69900
+    },
+    {
+      "electricRange": 208,
+      "baseMSRP": 69900
+    },
+    {
+      "electricRange": 208,
+      "baseMSRP": 69900
+    },
+    {
+      "electricRange": 14,
+      "baseMSRP": 44100
+    },
+    {
+      "electricRange": 265,
+      "baseMSRP": 59900
+    },
+    {
+      "electricRange": 208,
+      "baseMSRP": 69900
+    },
+    {
+      "electricRange": 265,
+      "baseMSRP": 59900
+    },
+    {
+      "electricRange": 93,
+      "baseMSRP": 31950
+    },
+    {
+      "electricRange": 12,
+      "baseMSRP": 36900
+    },
+    {
+      "electricRange": 111,
+      "baseMSRP": 33950
+    },
+    {
+      "electricRange": 208,
+      "baseMSRP": 69900
+    },
+    {
+      "electricRange": 93,
+      "baseMSRP": 31950
+    },
+    {
+      "electricRange": 17,
+      "baseMSRP": 52900
+    },
+    {
+      "electricRange": 14,
+      "baseMSRP": 44100
+    },
+    {
+      "electricRange": 208,
+      "baseMSRP": 69900
+    },
+    {
+      "electricRange": 14,
+      "baseMSRP": 44100
+    },
+    {
+      "electricRange": 208,
+      "baseMSRP": 69900
+    },
+    {
+      "electricRange": 12,
+      "baseMSRP": 36900
+    },
+    {
+      "electricRange": 12,
+      "baseMSRP": 36900
+    },
+    {
+      "electricRange": 93,
+      "baseMSRP": 32250
+    },
+    {
+      "electricRange": 208,
+      "baseMSRP": 69900
+    },
+    {
+      "electricRange": 93,
+      "baseMSRP": 32250
+    },
+    {
+      "electricRange": 208,
+      "baseMSRP": 69900
+    },
+    {
+      "electricRange": 208,
+      "baseMSRP": 69900
+    },
+    {
+      "electricRange": 16,
+      "baseMSRP": 52650
+    },
+    {
+      "electricRange": 17,
+      "baseMSRP": 52900
+    },
+    {
+      "electricRange": 12,
+      "baseMSRP": 36900
+    },
+    {
+      "electricRange": 208,
+      "baseMSRP": 69900
+    },
+    {
+      "electricRange": 93,
+      "baseMSRP": 31950
+    },
+    {
+      "electricRange": 19,
+      "baseMSRP": 64950
+    },
+    {
+      "electricRange": 208,
+      "baseMSRP": 69900
+    },
+    {
+      "electricRange": 15,
+      "baseMSRP": 55700
+    },
+    {
+      "electricRange": 17,
+      "baseMSRP": 52900
+    },
+    {
+      "electricRange": 14,
+      "baseMSRP": 91250
+    },
+    {
+      "electricRange": 208,
+      "baseMSRP": 69900
+    },
+    {
+      "electricRange": 208,
+      "baseMSRP": 69900
+    },
+    {
+      "electricRange": 208,
+      "baseMSRP": 69900
+    },
+    {
+      "electricRange": 208,
+      "baseMSRP": 69900
+    },
+    {
+      "electricRange": 208,
+      "baseMSRP": 69900
+    },
+    {
+      "electricRange": 208,
+      "baseMSRP": 69900
+    },
+    {
+      "electricRange": 208,
+      "baseMSRP": 69900
+    },
+    {
+      "electricRange": 208,
+      "baseMSRP": 69900
+    },
+    {
+      "electricRange": 16,
+      "baseMSRP": 53400
+    },
+    {
+      "electricRange": 208,
+      "baseMSRP": 69900
+    },
+    {
+      "electricRange": 14,
+      "baseMSRP": 54950
+    },
+    {
+      "electricRange": 93,
+      "baseMSRP": 31950
+    },
+    {
+      "electricRange": 93,
+      "baseMSRP": 31950
+    },
+    {
+      "electricRange": 93,
+      "baseMSRP": 31950
+    },
+    {
+      "electricRange": 14,
+      "baseMSRP": 54950
+    },
+    {
+      "electricRange": 14,
+      "baseMSRP": 54950
+    },
+    {
+      "electricRange": 208,
+      "baseMSRP": 69900
+    },
+    {
+      "electricRange": 208,
+      "baseMSRP": 69900
+    },
+    {
+      "electricRange": 14,
+      "baseMSRP": 45600
+    },
+    {
+      "electricRange": 208,
+      "baseMSRP": 69900
+    },
+    {
+      "electricRange": 208,
+      "baseMSRP": 69900
+    },
+    {
+      "electricRange": 208,
+      "baseMSRP": 69900
+    },
+    {
+      "electricRange": 208,
+      "baseMSRP": 69900
+    },
+    {
+      "electricRange": 17,
+      "baseMSRP": 52900
+    },
+    {
+      "electricRange": 32,
+      "baseMSRP": 39995
+    },
+    {
+      "electricRange": 208,
+      "baseMSRP": 69900
+    },
+    {
+      "electricRange": 14,
+      "baseMSRP": 45600
+    },
+    {
+      "electricRange": 93,
+      "baseMSRP": 31950
+    },
+    {
+      "electricRange": 208,
+      "baseMSRP": 69900
+    },
+    {
+      "electricRange": 208,
+      "baseMSRP": 69900
+    },
+    {
+      "electricRange": 93,
+      "baseMSRP": 31950
+    },
+    {
+      "electricRange": 265,
+      "baseMSRP": 59900
+    },
+    {
+      "electricRange": 208,
+      "baseMSRP": 69900
+    },
+    {
+      "electricRange": 208,
+      "baseMSRP": 69900
+    },
+    {
+      "electricRange": 111,
+      "baseMSRP": 33950
+    },
+    {
+      "electricRange": 208,
+      "baseMSRP": 69900
+    },
+    {
+      "electricRange": 208,
+      "baseMSRP": 69900
+    },
+    {
+      "electricRange": 208,
+      "baseMSRP": 69900
+    },
+    {
+      "electricRange": 93,
+      "baseMSRP": 31950
+    },
+    {
+      "electricRange": 208,
+      "baseMSRP": 69900
+    },
+    {
+      "electricRange": 14,
+      "baseMSRP": 44100
+    },
+    {
+      "electricRange": 208,
+      "baseMSRP": 69900
+    },
+    {
+      "electricRange": 208,
+      "baseMSRP": 69900
+    },
+    {
+      "electricRange": 19,
+      "baseMSRP": 64950
+    },
+    {
+      "electricRange": 93,
+      "baseMSRP": 31950
+    },
+    {
+      "electricRange": 208,
+      "baseMSRP": 69900
+    },
+    {
+      "electricRange": 93,
+      "baseMSRP": 31950
+    },
+    {
+      "electricRange": 93,
+      "baseMSRP": 31950
+    },
+    {
+      "electricRange": 208,
+      "baseMSRP": 69900
+    },
+    {
+      "electricRange": 208,
+      "baseMSRP": 69900
+    },
+    {
+      "electricRange": 220,
+      "baseMSRP": 98950
+    },
+    {
+      "electricRange": 208,
+      "baseMSRP": 69900
+    },
+    {
+      "electricRange": 16,
+      "baseMSRP": 53400
+    },
+    {
+      "electricRange": 245,
+      "baseMSRP": 110950
+    },
+    {
+      "electricRange": 208,
+      "baseMSRP": 69900
+    },
+    {
+      "electricRange": 17,
+      "baseMSRP": 52900
+    },
+    {
+      "electricRange": 12,
+      "baseMSRP": 36800
+    },
+    {
+      "electricRange": 208,
+      "baseMSRP": 69900
+    },
+    {
+      "electricRange": 93,
+      "baseMSRP": 31950
+    },
+    {
+      "electricRange": 208,
+      "baseMSRP": 69900
+    },
+    {
+      "electricRange": 14,
+      "baseMSRP": 44100
+    },
+    {
+      "electricRange": 208,
+      "baseMSRP": 69900
+    },
+    {
+      "electricRange": 208,
+      "baseMSRP": 69900
+    },
+    {
+      "electricRange": 208,
+      "baseMSRP": 69900
+    },
+    {
+      "electricRange": 208,
+      "baseMSRP": 69900
+    },
+    {
+      "electricRange": 208,
+      "baseMSRP": 69900
+    },
+    {
+      "electricRange": 208,
+      "baseMSRP": 69900
+    },
+    {
+      "electricRange": 16,
+      "baseMSRP": 53400
+    },
+    {
+      "electricRange": 208,
+      "baseMSRP": 69900
+    },
+    {
+      "electricRange": 93,
+      "baseMSRP": 31950
+    },
+    {
+      "electricRange": 208,
+      "baseMSRP": 69900
+    },
+    {
+      "electricRange": 17,
+      "baseMSRP": 52900
+    },
+    {
+      "electricRange": 93,
+      "baseMSRP": 31950
+    },
+    {
+      "electricRange": 208,
+      "baseMSRP": 69900
+    },
+    {
+      "electricRange": 17,
+      "baseMSRP": 52900
+    },
+    {
+      "electricRange": 32,
+      "baseMSRP": 39995
+    },
+    {
+      "electricRange": 17,
+      "baseMSRP": 52900
+    },
+    {
+      "electricRange": 208,
+      "baseMSRP": 69900
+    },
+    {
+      "electricRange": 208,
+      "baseMSRP": 69900
+    },
+    {
+      "electricRange": 16,
+      "baseMSRP": 53400
+    },
+    {
+      "electricRange": 16,
+      "baseMSRP": 52650
+    },
+    {
+      "electricRange": 17,
+      "baseMSRP": 52900
+    },
+    {
+      "electricRange": 93,
+      "baseMSRP": 31950
+    },
+    {
+      "electricRange": 208,
+      "baseMSRP": 69900
+    },
+    {
+      "electricRange": 12,
+      "baseMSRP": 36800
+    },
+    {
+      "electricRange": 93,
+      "baseMSRP": 31950
+    },
+    {
+      "electricRange": 208,
+      "baseMSRP": 69900
+    },
+    {
+      "electricRange": 14,
+      "baseMSRP": 54950
+    },
+    {
+      "electricRange": 17,
+      "baseMSRP": 52900
+    },
+    {
+      "electricRange": 245,
+      "baseMSRP": 110950
+    },
+    {
+      "electricRange": 208,
+      "baseMSRP": 69900
+    },
+    {
+      "electricRange": 208,
+      "baseMSRP": 69900
+    },
+    {
+      "electricRange": 32,
+      "baseMSRP": 39995
+    },
+    {
+      "electricRange": 208,
+      "baseMSRP": 69900
+    },
+    {
+      "electricRange": 208,
+      "baseMSRP": 69900
+    },
+    {
+      "electricRange": 208,
+      "baseMSRP": 69900
+    },
+    {
+      "electricRange": 14,
+      "baseMSRP": 54950
+    },
+    {
+      "electricRange": 93,
+      "baseMSRP": 31950
+    },
+    {
+      "electricRange": 208,
+      "baseMSRP": 69900
+    },
+    {
+      "electricRange": 14,
+      "baseMSRP": 90700
+    },
+    {
+      "electricRange": 19,
+      "baseMSRP": 64950
+    },
+    {
+      "electricRange": 19,
+      "baseMSRP": 64950
+    },
+    {
+      "electricRange": 208,
+      "baseMSRP": 69900
+    },
+    {
+      "electricRange": 208,
+      "baseMSRP": 69900
+    },
+    {
+      "electricRange": 208,
+      "baseMSRP": 69900
+    },
+    {
+      "electricRange": 208,
+      "baseMSRP": 69900
+    },
+    {
+      "electricRange": 208,
+      "baseMSRP": 69900
+    },
+    {
+      "electricRange": 208,
+      "baseMSRP": 69900
+    },
+    {
+      "electricRange": 17,
+      "baseMSRP": 52900
+    },
+    {
+      "electricRange": 208,
+      "baseMSRP": 69900
+    },
+    {
+      "electricRange": 208,
+      "baseMSRP": 69900
+    },
+    {
+      "electricRange": 93,
+      "baseMSRP": 31950
+    },
+    {
+      "electricRange": 208,
+      "baseMSRP": 69900
+    },
+    {
+      "electricRange": 265,
+      "baseMSRP": 59900
+    },
+    {
+      "electricRange": 12,
+      "baseMSRP": 36900
+    },
+    {
+      "electricRange": 93,
+      "baseMSRP": 31950
+    },
+    {
+      "electricRange": 208,
+      "baseMSRP": 69900
+    },
+    {
+      "electricRange": 93,
+      "baseMSRP": 32250
+    },
+    {
+      "electricRange": 19,
+      "baseMSRP": 64950
+    },
+    {
+      "electricRange": 265,
+      "baseMSRP": 59900
+    },
+    {
+      "electricRange": 208,
+      "baseMSRP": 69900
+    },
+    {
+      "electricRange": 14,
+      "baseMSRP": 54950
+    },
+    {
+      "electricRange": 245,
+      "baseMSRP": 110950
+    },
+    {
+      "electricRange": 32,
+      "baseMSRP": 39995
+    },
+    {
+      "electricRange": 14,
+      "baseMSRP": 45600
+    },
+    {
+      "electricRange": 208,
+      "baseMSRP": 69900
+    },
+    {
+      "electricRange": 17,
+      "baseMSRP": 52900
+    },
+    {
+      "electricRange": 208,
+      "baseMSRP": 69900
+    },
+    {
+      "electricRange": 93,
+      "baseMSRP": 31950
+    },
+    {
+      "electricRange": 208,
+      "baseMSRP": 69900
+    },
+    {
+      "electricRange": 208,
+      "baseMSRP": 69900
+    },
+    {
+      "electricRange": 19,
+      "baseMSRP": 64950
+    },
+    {
+      "electricRange": 32,
+      "baseMSRP": 39995
+    },
+    {
+      "electricRange": 208,
+      "baseMSRP": 69900
+    },
+    {
+      "electricRange": 93,
+      "baseMSRP": 31950
+    },
+    {
+      "electricRange": 208,
+      "baseMSRP": 69900
+    },
+    {
+      "electricRange": 208,
+      "baseMSRP": 69900
+    },
+    {
+      "electricRange": 14,
+      "baseMSRP": 45600
+    },
+    {
+      "electricRange": 93,
+      "baseMSRP": 31950
+    },
+    {
+      "electricRange": 208,
+      "baseMSRP": 69900
+    },
+    {
+      "electricRange": 93,
+      "baseMSRP": 32250
+    },
+    {
+      "electricRange": 208,
+      "baseMSRP": 69900
+    },
+    {
+      "electricRange": 111,
+      "baseMSRP": 33950
+    },
+    {
+      "electricRange": 14,
+      "baseMSRP": 44100
+    },
+    {
+      "electricRange": 14,
+      "baseMSRP": 45600
+    },
+    {
+      "electricRange": 93,
+      "baseMSRP": 31950
+    },
+    {
+      "electricRange": 208,
+      "baseMSRP": 69900
+    },
+    {
+      "electricRange": 15,
+      "baseMSRP": 55700
+    },
+    {
+      "electricRange": 15,
+      "baseMSRP": 55700
+    },
+    {
+      "electricRange": 14,
+      "baseMSRP": 184400
+    },
+    {
+      "electricRange": 93,
+      "baseMSRP": 32250
+    },
+    {
+      "electricRange": 14,
+      "baseMSRP": 184400
+    },
+    {
+      "electricRange": 93,
+      "baseMSRP": 32250
+    },
+    {
+      "electricRange": 208,
+      "baseMSRP": 69900
+    },
+    {
+      "electricRange": 208,
+      "baseMSRP": 69900
+    },
+    {
+      "electricRange": 208,
+      "baseMSRP": 69900
+    },
+    {
+      "electricRange": 208,
+      "baseMSRP": 69900
+    },
+    {
+      "electricRange": 32,
+      "baseMSRP": 39995
+    },
+    {
+      "electricRange": 208,
+      "baseMSRP": 69900
+    },
+    {
+      "electricRange": 17,
+      "baseMSRP": 52900
+    },
+    {
+      "electricRange": 208,
+      "baseMSRP": 69900
+    },
+    {
+      "electricRange": 208,
+      "baseMSRP": 69900
+    },
+    {
+      "electricRange": 208,
+      "baseMSRP": 69900
+    },
+    {
+      "electricRange": 14,
+      "baseMSRP": 44100
+    },
+    {
+      "electricRange": 17,
+      "baseMSRP": 52900
+    },
+    {
+      "electricRange": 208,
+      "baseMSRP": 69900
+    },
+    {
+      "electricRange": 14,
+      "baseMSRP": 184400
+    },
+    {
+      "electricRange": 208,
+      "baseMSRP": 69900
+    },
+    {
+      "electricRange": 208,
+      "baseMSRP": 69900
+    },
+    {
+      "electricRange": 111,
+      "baseMSRP": 33950
+    },
+    {
+      "electricRange": 208,
+      "baseMSRP": 69900
+    },
+    {
+      "electricRange": 265,
+      "baseMSRP": 59900
+    },
+    {
+      "electricRange": 208,
+      "baseMSRP": 69900
+    },
+    {
+      "electricRange": 93,
+      "baseMSRP": 31950
+    },
+    {
+      "electricRange": 208,
+      "baseMSRP": 69900
+    },
+    {
+      "electricRange": 17,
+      "baseMSRP": 52900
+    },
+    {
+      "electricRange": 93,
+      "baseMSRP": 31950
+    },
+    {
+      "electricRange": 12,
+      "baseMSRP": 36800
+    },
+    {
+      "electricRange": 19,
+      "baseMSRP": 64950
+    },
+    {
+      "electricRange": 19,
+      "baseMSRP": 64950
+    },
+    {
+      "electricRange": 12,
+      "baseMSRP": 36900
+    },
+    {
+      "electricRange": 208,
+      "baseMSRP": 69900
+    },
+    {
+      "electricRange": 208,
+      "baseMSRP": 69900
+    },
+    {
+      "electricRange": 208,
+      "baseMSRP": 69900
+    },
+    {
+      "electricRange": 208,
+      "baseMSRP": 69900
+    },
+    {
+      "electricRange": 208,
+      "baseMSRP": 69900
+    },
+    {
+      "electricRange": 208,
+      "baseMSRP": 69900
+    },
+    {
+      "electricRange": 93,
+      "baseMSRP": 31950
+    },
+    {
+      "electricRange": 93,
+      "baseMSRP": 31950
+    },
+    {
+      "electricRange": 32,
+      "baseMSRP": 39995
+    },
+    {
+      "electricRange": 12,
+      "baseMSRP": 36900
+    },
+    {
+      "electricRange": 14,
+      "baseMSRP": 54950
+    },
+    {
+      "electricRange": 14,
+      "baseMSRP": 45600
+    },
+    {
+      "electricRange": 93,
+      "baseMSRP": 31950
+    },
+    {
+      "electricRange": 17,
+      "baseMSRP": 52900
+    },
+    {
+      "electricRange": 265,
+      "baseMSRP": 59900
+    },
+    {
+      "electricRange": 208,
+      "baseMSRP": 69900
+    },
+    {
+      "electricRange": 93,
+      "baseMSRP": 32250
+    },
+    {
+      "electricRange": 17,
+      "baseMSRP": 52900
+    },
+    {
+      "electricRange": 265,
+      "baseMSRP": 59900
+    },
+    {
+      "electricRange": 17,
+      "baseMSRP": 52900
+    },
+    {
+      "electricRange": 12,
+      "baseMSRP": 36900
+    },
+    {
+      "electricRange": 265,
+      "baseMSRP": 59900
+    },
+    {
+      "electricRange": 14,
+      "baseMSRP": 81100
+    },
+    {
+      "electricRange": 17,
+      "baseMSRP": 34995
+    },
+    {
+      "electricRange": 208,
+      "baseMSRP": 69900
+    },
+    {
+      "electricRange": 93,
+      "baseMSRP": 31950
+    },
+    {
+      "electricRange": 208,
+      "baseMSRP": 69900
+    },
+    {
+      "electricRange": 265,
+      "baseMSRP": 59900
+    },
+    {
+      "electricRange": 93,
+      "baseMSRP": 31950
+    },
+    {
+      "electricRange": 208,
+      "baseMSRP": 69900
+    },
+    {
+      "electricRange": 12,
+      "baseMSRP": 36800
+    },
+    {
+      "electricRange": 93,
+      "baseMSRP": 31950
+    },
+    {
+      "electricRange": 93,
+      "baseMSRP": 31950
+    },
+    {
+      "electricRange": 208,
+      "baseMSRP": 69900
+    },
+    {
+      "electricRange": 19,
+      "baseMSRP": 64950
+    },
+    {
+      "electricRange": 93,
+      "baseMSRP": 31950
+    },
+    {
+      "electricRange": 93,
+      "baseMSRP": 31950
+    },
+    {
+      "electricRange": 208,
+      "baseMSRP": 69900
+    },
+    {
+      "electricRange": 93,
+      "baseMSRP": 32250
+    },
+    {
+      "electricRange": 245,
+      "baseMSRP": 110950
+    },
+    {
+      "electricRange": 93,
+      "baseMSRP": 32250
+    },
+    {
+      "electricRange": 14,
+      "baseMSRP": 43700
+    },
+    {
+      "electricRange": 16,
+      "baseMSRP": 52650
+    },
+    {
+      "electricRange": 14,
+      "baseMSRP": 44100
+    },
+    {
+      "electricRange": 245,
+      "baseMSRP": 109000
+    },
+    {
+      "electricRange": 15,
+      "baseMSRP": 55700
+    },
+    {
+      "electricRange": 17,
+      "baseMSRP": 52900
+    },
+    {
+      "electricRange": 208,
+      "baseMSRP": 69900
+    },
+    {
+      "electricRange": 12,
+      "baseMSRP": 36900
+    },
+    {
+      "electricRange": 208,
+      "baseMSRP": 69900
+    },
+    {
+      "electricRange": 14,
+      "baseMSRP": 81100
+    },
+    {
+      "electricRange": 208,
+      "baseMSRP": 69900
+    },
+    {
+      "electricRange": 208,
+      "baseMSRP": 69900
+    },
+    {
+      "electricRange": 93,
+      "baseMSRP": 32250
+    },
+    {
+      "electricRange": 208,
+      "baseMSRP": 69900
+    },
+    {
+      "electricRange": 93,
+      "baseMSRP": 31950
+    },
+    {
+      "electricRange": 14,
+      "baseMSRP": 54950
+    },
+    {
+      "electricRange": 32,
+      "baseMSRP": 39995
+    },
+    {
+      "electricRange": 208,
+      "baseMSRP": 69900
+    },
+    {
+      "electricRange": 208,
+      "baseMSRP": 69900
+    },
+    {
+      "electricRange": 14,
+      "baseMSRP": 54950
+    },
+    {
+      "electricRange": 208,
+      "baseMSRP": 69900
+    },
+    {
+      "electricRange": 208,
+      "baseMSRP": 69900
+    },
+    {
+      "electricRange": 208,
+      "baseMSRP": 69900
+    },
+    {
+      "electricRange": 208,
+      "baseMSRP": 69900
+    },
+    {
+      "electricRange": 93,
+      "baseMSRP": 32250
+    },
+    {
+      "electricRange": 14,
+      "baseMSRP": 54950
+    },
+    {
+      "electricRange": 17,
+      "baseMSRP": 52900
+    },
+    {
+      "electricRange": 93,
+      "baseMSRP": 31950
+    },
+    {
+      "electricRange": 93,
+      "baseMSRP": 31950
+    },
+    {
+      "electricRange": 17,
+      "baseMSRP": 34995
+    },
+    {
+      "electricRange": 208,
+      "baseMSRP": 69900
+    },
+    {
+      "electricRange": 93,
+      "baseMSRP": 32250
+    },
+    {
+      "electricRange": 15,
+      "baseMSRP": 55700
+    },
+    {
+      "electricRange": 14,
+      "baseMSRP": 44100
+    },
+    {
+      "electricRange": 265,
+      "baseMSRP": 59900
+    },
+    {
+      "electricRange": 208,
+      "baseMSRP": 69900
+    },
+    {
+      "electricRange": 265,
+      "baseMSRP": 59900
+    },
+    {
+      "electricRange": 16,
+      "baseMSRP": 52650
+    },
+    {
+      "electricRange": 265,
+      "baseMSRP": 59900
+    },
+    {
+      "electricRange": 93,
+      "baseMSRP": 31950
+    },
+    {
+      "electricRange": 14,
+      "baseMSRP": 44100
+    },
+    {
+      "electricRange": 111,
+      "baseMSRP": 33950
+    },
+    {
+      "electricRange": 93,
+      "baseMSRP": 31950
+    },
+    {
+      "electricRange": 15,
+      "baseMSRP": 55700
+    },
+    {
+      "electricRange": 265,
+      "baseMSRP": 59900
+    },
+    {
+      "electricRange": 208,
+      "baseMSRP": 69900
+    },
+    {
+      "electricRange": 14,
+      "baseMSRP": 54950
+    },
+    {
+      "electricRange": 12,
+      "baseMSRP": 36900
+    },
+    {
+      "electricRange": 14,
+      "baseMSRP": 45600
+    },
+    {
+      "electricRange": 93,
+      "baseMSRP": 31950
+    },
+    {
+      "electricRange": 93,
+      "baseMSRP": 31950
+    },
+    {
+      "electricRange": 93,
+      "baseMSRP": 31950
+    },
+    {
+      "electricRange": 208,
+      "baseMSRP": 69900
+    },
+    {
+      "electricRange": 93,
+      "baseMSRP": 32250
+    },
+    {
+      "electricRange": 19,
+      "baseMSRP": 64950
+    },
+    {
+      "electricRange": 17,
+      "baseMSRP": 34995
+    },
+    {
+      "electricRange": 93,
+      "baseMSRP": 31950
+    },
+    {
+      "electricRange": 208,
+      "baseMSRP": 69900
+    },
+    {
+      "electricRange": 14,
+      "baseMSRP": 54950
+    },
+    {
+      "electricRange": 12,
+      "baseMSRP": 36800
+    },
+    {
+      "electricRange": 32,
+      "baseMSRP": 39995
+    },
+    {
+      "electricRange": 208,
+      "baseMSRP": 69900
+    },
+    {
+      "electricRange": 93,
+      "baseMSRP": 32250
+    },
+    {
+      "electricRange": 208,
+      "baseMSRP": 69900
+    },
+    {
+      "electricRange": 17,
+      "baseMSRP": 34995
+    },
+    {
+      "electricRange": 208,
+      "baseMSRP": 69900
+    },
+    {
+      "electricRange": 93,
+      "baseMSRP": 31950
+    },
+    {
+      "electricRange": 265,
+      "baseMSRP": 59900
+    },
+    {
+      "electricRange": 19,
+      "baseMSRP": 64950
+    },
+    {
+      "electricRange": 14,
+      "baseMSRP": 54950
+    },
+    {
+      "electricRange": 93,
+      "baseMSRP": 31950
+    },
+    {
+      "electricRange": 208,
+      "baseMSRP": 69900
+    },
+    {
+      "electricRange": 17,
+      "baseMSRP": 34995
+    },
+    {
+      "electricRange": 208,
+      "baseMSRP": 69900
+    },
+    {
+      "electricRange": 14,
+      "baseMSRP": 54950
+    },
+    {
+      "electricRange": 208,
+      "baseMSRP": 69900
+    },
+    {
+      "electricRange": 208,
+      "baseMSRP": 69900
+    },
+    {
+      "electricRange": 32,
+      "baseMSRP": 39995
+    },
+    {
+      "electricRange": 208,
+      "baseMSRP": 69900
+    },
+    {
+      "electricRange": 265,
+      "baseMSRP": 59900
+    },
+    {
+      "electricRange": 208,
+      "baseMSRP": 69900
+    },
+    {
+      "electricRange": 208,
+      "baseMSRP": 69900
+    },
+    {
+      "electricRange": 93,
+      "baseMSRP": 31950
+    },
+    {
+      "electricRange": 265,
+      "baseMSRP": 59900
+    },
+    {
+      "electricRange": 245,
+      "baseMSRP": 110950
+    },
+    {
+      "electricRange": 265,
+      "baseMSRP": 59900
+    },
+    {
+      "electricRange": 14,
+      "baseMSRP": 44100
+    },
+    {
+      "electricRange": 208,
+      "baseMSRP": 69900
+    },
+    {
+      "electricRange": 93,
+      "baseMSRP": 32250
+    },
+    {
+      "electricRange": 208,
+      "baseMSRP": 69900
+    },
+    {
+      "electricRange": 208,
+      "baseMSRP": 69900
+    },
+    {
+      "electricRange": 12,
+      "baseMSRP": 36800
+    },
+    {
+      "electricRange": 208,
+      "baseMSRP": 69900
+    },
+    {
+      "electricRange": 14,
+      "baseMSRP": 54950
+    },
+    {
+      "electricRange": 208,
+      "baseMSRP": 69900
+    },
+    {
+      "electricRange": 17,
+      "baseMSRP": 52900
+    },
+    {
+      "electricRange": 93,
+      "baseMSRP": 32250
+    },
+    {
+      "electricRange": 17,
+      "baseMSRP": 34995
+    },
+    {
+      "electricRange": 208,
+      "baseMSRP": 69900
+    },
+    {
+      "electricRange": 208,
+      "baseMSRP": 69900
+    },
+    {
+      "electricRange": 208,
+      "baseMSRP": 69900
+    },
+    {
+      "electricRange": 15,
+      "baseMSRP": 55700
+    },
+    {
+      "electricRange": 265,
+      "baseMSRP": 59900
+    },
+    {
+      "electricRange": 93,
+      "baseMSRP": 32250
+    },
+    {
+      "electricRange": 93,
+      "baseMSRP": 31950
+    },
+    {
+      "electricRange": 14,
+      "baseMSRP": 45600
+    },
+    {
+      "electricRange": 208,
+      "baseMSRP": 69900
+    },
+    {
+      "electricRange": 208,
+      "baseMSRP": 69900
+    },
+    {
+      "electricRange": 17,
+      "baseMSRP": 52900
+    },
+    {
+      "electricRange": 208,
+      "baseMSRP": 69900
+    },
+    {
+      "electricRange": 17,
+      "baseMSRP": 52900
+    },
+    {
+      "electricRange": 208,
+      "baseMSRP": 69900
+    },
+    {
+      "electricRange": 19,
+      "baseMSRP": 64950
+    },
+    {
+      "electricRange": 208,
+      "baseMSRP": 69900
+    },
+    {
+      "electricRange": 208,
+      "baseMSRP": 69900
+    },
+    {
+      "electricRange": 208,
+      "baseMSRP": 69900
+    },
+    {
+      "electricRange": 208,
+      "baseMSRP": 69900
+    },
+    {
+      "electricRange": 208,
+      "baseMSRP": 69900
+    },
+    {
+      "electricRange": 15,
+      "baseMSRP": 55700
+    },
+    {
+      "electricRange": 208,
+      "baseMSRP": 69900
+    },
+    {
+      "electricRange": 208,
+      "baseMSRP": 69900
+    },
+    {
+      "electricRange": 208,
+      "baseMSRP": 69900
+    },
+    {
+      "electricRange": 208,
+      "baseMSRP": 69900
+    },
+    {
+      "electricRange": 208,
+      "baseMSRP": 69900
+    },
+    {
+      "electricRange": 208,
+      "baseMSRP": 69900
+    },
+    {
+      "electricRange": 208,
+      "baseMSRP": 69900
+    },
+    {
+      "electricRange": 265,
+      "baseMSRP": 59900
+    },
+    {
+      "electricRange": 208,
+      "baseMSRP": 69900
+    },
+    {
+      "electricRange": 19,
+      "baseMSRP": 64950
+    },
+    {
+      "electricRange": 93,
+      "baseMSRP": 31950
+    },
+    {
+      "electricRange": 93,
+      "baseMSRP": 31950
+    },
+    {
+      "electricRange": 208,
+      "baseMSRP": 69900
+    },
+    {
+      "electricRange": 32,
+      "baseMSRP": 39995
+    },
+    {
+      "electricRange": 208,
+      "baseMSRP": 69900
+    },
+    {
+      "electricRange": 14,
+      "baseMSRP": 45600
+    },
+    {
+      "electricRange": 32,
+      "baseMSRP": 39995
+    },
+    {
+      "electricRange": 93,
+      "baseMSRP": 32250
+    },
+    {
+      "electricRange": 208,
+      "baseMSRP": 69900
+    },
+    {
+      "electricRange": 93,
+      "baseMSRP": 31950
+    },
+    {
+      "electricRange": 208,
+      "baseMSRP": 69900
+    },
+    {
+      "electricRange": 208,
+      "baseMSRP": 69900
+    },
+    {
+      "electricRange": 17,
+      "baseMSRP": 52900
+    },
+    {
+      "electricRange": 208,
+      "baseMSRP": 69900
+    },
+    {
+      "electricRange": 12,
+      "baseMSRP": 36900
+    },
+    {
+      "electricRange": 208,
+      "baseMSRP": 69900
+    },
+    {
+      "electricRange": 14,
+      "baseMSRP": 44100
+    },
+    {
+      "electricRange": 93,
+      "baseMSRP": 31950
+    },
+    {
+      "electricRange": 208,
+      "baseMSRP": 69900
+    },
+    {
+      "electricRange": 208,
+      "baseMSRP": 69900
+    },
+    {
+      "electricRange": 19,
+      "baseMSRP": 64950
+    },
+    {
+      "electricRange": 208,
+      "baseMSRP": 69900
+    },
+    {
+      "electricRange": 14,
+      "baseMSRP": 44100
+    },
+    {
+      "electricRange": 93,
+      "baseMSRP": 32250
+    },
+    {
+      "electricRange": 17,
+      "baseMSRP": 52900
+    },
+    {
+      "electricRange": 15,
+      "baseMSRP": 55700
+    },
+    {
+      "electricRange": 14,
+      "baseMSRP": 54950
+    },
+    {
+      "electricRange": 245,
+      "baseMSRP": 109000
+    },
+    {
+      "electricRange": 14,
+      "baseMSRP": 54950
+    },
+    {
+      "electricRange": 17,
+      "baseMSRP": 52900
+    },
+    {
+      "electricRange": 208,
+      "baseMSRP": 69900
+    },
+    {
+      "electricRange": 32,
+      "baseMSRP": 39995
+    },
+    {
+      "electricRange": 14,
+      "baseMSRP": 54950
+    },
+    {
+      "electricRange": 17,
+      "baseMSRP": 52900
+    },
+    {
+      "electricRange": 16,
+      "baseMSRP": 52650
+    },
+    {
+      "electricRange": 208,
+      "baseMSRP": 69900
+    },
+    {
+      "electricRange": 208,
+      "baseMSRP": 69900
+    },
+    {
+      "electricRange": 208,
+      "baseMSRP": 69900
+    },
+    {
+      "electricRange": 208,
+      "baseMSRP": 69900
+    },
+    {
+      "electricRange": 14,
+      "baseMSRP": 54950
+    },
+    {
+      "electricRange": 208,
+      "baseMSRP": 69900
+    },
+    {
+      "electricRange": 32,
+      "baseMSRP": 39995
+    },
+    {
+      "electricRange": 93,
+      "baseMSRP": 31950
+    },
+    {
+      "electricRange": 208,
+      "baseMSRP": 69900
+    },
+    {
+      "electricRange": 245,
+      "baseMSRP": 110950
+    },
+    {
+      "electricRange": 208,
+      "baseMSRP": 69900
+    },
+    {
+      "electricRange": 245,
+      "baseMSRP": 110950
+    },
+    {
+      "electricRange": 93,
+      "baseMSRP": 31950
+    },
+    {
+      "electricRange": 17,
+      "baseMSRP": 52900
+    },
+    {
+      "electricRange": 245,
+      "baseMSRP": 109000
+    },
+    {
+      "electricRange": 16,
+      "baseMSRP": 53400
+    },
+    {
+      "electricRange": 208,
+      "baseMSRP": 69900
+    },
+    {
+      "electricRange": 14,
+      "baseMSRP": 45600
+    },
+    {
+      "electricRange": 93,
+      "baseMSRP": 31950
+    },
+    {
+      "electricRange": 208,
+      "baseMSRP": 69900
+    },
+    {
+      "electricRange": 208,
+      "baseMSRP": 69900
+    },
+    {
+      "electricRange": 14,
+      "baseMSRP": 45600
+    },
+    {
+      "electricRange": 208,
+      "baseMSRP": 69900
+    },
+    {
+      "electricRange": 93,
+      "baseMSRP": 31950
+    },
+    {
+      "electricRange": 208,
+      "baseMSRP": 69900
+    },
+    {
+      "electricRange": 208,
+      "baseMSRP": 69900
+    },
+    {
+      "electricRange": 208,
+      "baseMSRP": 69900
+    },
+    {
+      "electricRange": 208,
+      "baseMSRP": 69900
+    },
+    {
+      "electricRange": 14,
+      "baseMSRP": 54950
+    },
+    {
+      "electricRange": 208,
+      "baseMSRP": 69900
+    },
+    {
+      "electricRange": 12,
+      "baseMSRP": 36800
+    },
+    {
+      "electricRange": 14,
+      "baseMSRP": 54950
+    },
+    {
+      "electricRange": 265,
+      "baseMSRP": 59900
+    },
+    {
+      "electricRange": 17,
+      "baseMSRP": 52900
+    },
+    {
+      "electricRange": 111,
+      "baseMSRP": 33950
+    },
+    {
+      "electricRange": 93,
+      "baseMSRP": 31950
+    },
+    {
+      "electricRange": 208,
+      "baseMSRP": 69900
+    },
+    {
+      "electricRange": 208,
+      "baseMSRP": 69900
+    },
+    {
+      "electricRange": 14,
+      "baseMSRP": 44100
+    },
+    {
+      "electricRange": 14,
+      "baseMSRP": 81100
+    },
+    {
+      "electricRange": 208,
+      "baseMSRP": 69900
+    },
+    {
+      "electricRange": 208,
+      "baseMSRP": 69900
+    },
+    {
+      "electricRange": 111,
+      "baseMSRP": 33950
+    },
+    {
+      "electricRange": 93,
+      "baseMSRP": 31950
+    },
+    {
+      "electricRange": 16,
+      "baseMSRP": 52650
+    },
+    {
+      "electricRange": 93,
+      "baseMSRP": 31950
+    },
+    {
+      "electricRange": 208,
+      "baseMSRP": 69900
+    },
+    {
+      "electricRange": 93,
+      "baseMSRP": 32250
+    },
+    {
+      "electricRange": 111,
+      "baseMSRP": 33950
+    },
+    {
+      "electricRange": 245,
+      "baseMSRP": 110950
+    },
+    {
+      "electricRange": 93,
+      "baseMSRP": 32250
+    },
+    {
+      "electricRange": 14,
+      "baseMSRP": 44100
+    },
+    {
+      "electricRange": 208,
+      "baseMSRP": 69900
+    },
+    {
+      "electricRange": 14,
+      "baseMSRP": 89100
+    },
+    {
+      "electricRange": 208,
+      "baseMSRP": 69900
+    },
+    {
+      "electricRange": 93,
+      "baseMSRP": 32250
+    },
+    {
+      "electricRange": 93,
+      "baseMSRP": 31950
+    },
+    {
+      "electricRange": 17,
+      "baseMSRP": 52900
+    },
+    {
+      "electricRange": 208,
+      "baseMSRP": 69900
+    },
+    {
+      "electricRange": 208,
+      "baseMSRP": 69900
+    },
+    {
+      "electricRange": 208,
+      "baseMSRP": 69900
+    },
+    {
+      "electricRange": 208,
+      "baseMSRP": 69900
+    },
+    {
+      "electricRange": 208,
+      "baseMSRP": 69900
+    },
+    {
+      "electricRange": 15,
+      "baseMSRP": 55700
+    },
+    {
+      "electricRange": 16,
+      "baseMSRP": 53400
+    },
+    {
+      "electricRange": 265,
+      "baseMSRP": 59900
+    },
+    {
+      "electricRange": 93,
+      "baseMSRP": 31950
+    },
+    {
+      "electricRange": 111,
+      "baseMSRP": 33950
+    },
+    {
+      "electricRange": 208,
+      "baseMSRP": 69900
+    },
+    {
+      "electricRange": 245,
+      "baseMSRP": 110950
+    },
+    {
+      "electricRange": 14,
+      "baseMSRP": 54950
+    },
+    {
+      "electricRange": 265,
+      "baseMSRP": 59900
+    },
+    {
+      "electricRange": 19,
+      "baseMSRP": 64950
+    },
+    {
+      "electricRange": 14,
+      "baseMSRP": 54950
+    },
+    {
+      "electricRange": 208,
+      "baseMSRP": 69900
+    },
+    {
+      "electricRange": 14,
+      "baseMSRP": 45600
+    },
+    {
+      "electricRange": 17,
+      "baseMSRP": 34995
+    },
+    {
+      "electricRange": 208,
+      "baseMSRP": 69900
+    },
+    {
+      "electricRange": 16,
+      "baseMSRP": 52650
+    },
+    {
+      "electricRange": 208,
+      "baseMSRP": 69900
+    },
+    {
+      "electricRange": 14,
+      "baseMSRP": 44100
+    },
+    {
+      "electricRange": 208,
+      "baseMSRP": 69900
+    },
+    {
+      "electricRange": 208,
+      "baseMSRP": 69900
+    },
+    {
+      "electricRange": 208,
+      "baseMSRP": 69900
+    },
+    {
+      "electricRange": 208,
+      "baseMSRP": 69900
+    },
+    {
+      "electricRange": 12,
+      "baseMSRP": 36800
+    },
+    {
+      "electricRange": 208,
+      "baseMSRP": 69900
+    },
+    {
+      "electricRange": 208,
+      "baseMSRP": 69900
+    },
+    {
+      "electricRange": 93,
+      "baseMSRP": 31950
+    },
+    {
+      "electricRange": 208,
+      "baseMSRP": 69900
+    },
+    {
+      "electricRange": 14,
+      "baseMSRP": 45600
+    },
+    {
+      "electricRange": 265,
+      "baseMSRP": 59900
+    },
+    {
+      "electricRange": 208,
+      "baseMSRP": 69900
+    },
+    {
+      "electricRange": 15,
+      "baseMSRP": 55700
+    },
+    {
+      "electricRange": 17,
+      "baseMSRP": 52900
+    },
+    {
+      "electricRange": 93,
+      "baseMSRP": 31950
+    },
+    {
+      "electricRange": 208,
+      "baseMSRP": 69900
+    },
+    {
+      "electricRange": 208,
+      "baseMSRP": 69900
+    },
+    {
+      "electricRange": 111,
+      "baseMSRP": 33950
+    },
+    {
+      "electricRange": 208,
+      "baseMSRP": 69900
+    },
+    {
+      "electricRange": 208,
+      "baseMSRP": 69900
+    },
+    {
+      "electricRange": 208,
+      "baseMSRP": 69900
+    },
+    {
+      "electricRange": 17,
+      "baseMSRP": 52900
+    },
+    {
+      "electricRange": 208,
+      "baseMSRP": 69900
+    },
+    {
+      "electricRange": 208,
+      "baseMSRP": 69900
+    },
+    {
+      "electricRange": 93,
+      "baseMSRP": 31950
+    },
+    {
+      "electricRange": 208,
+      "baseMSRP": 69900
+    },
+    {
+      "electricRange": 208,
+      "baseMSRP": 69900
+    },
+    {
+      "electricRange": 14,
+      "baseMSRP": 44100
+    },
+    {
+      "electricRange": 208,
+      "baseMSRP": 69900
+    },
+    {
+      "electricRange": 93,
+      "baseMSRP": 31950
+    },
+    {
+      "electricRange": 14,
+      "baseMSRP": 81100
+    },
+    {
+      "electricRange": 93,
+      "baseMSRP": 31950
+    },
+    {
+      "electricRange": 111,
+      "baseMSRP": 33950
+    },
+    {
+      "electricRange": 14,
+      "baseMSRP": 45600
+    },
+    {
+      "electricRange": 17,
+      "baseMSRP": 52900
+    },
+    {
+      "electricRange": 32,
+      "baseMSRP": 39995
+    },
+    {
+      "electricRange": 17,
+      "baseMSRP": 52900
+    },
+    {
+      "electricRange": 208,
+      "baseMSRP": 69900
+    },
+    {
+      "electricRange": 12,
+      "baseMSRP": 36900
+    },
+    {
+      "electricRange": 208,
+      "baseMSRP": 69900
+    },
+    {
+      "electricRange": 17,
+      "baseMSRP": 52900
+    },
+    {
+      "electricRange": 14,
+      "baseMSRP": 81100
+    },
+    {
+      "electricRange": 265,
+      "baseMSRP": 59900
+    },
+    {
+      "electricRange": 12,
+      "baseMSRP": 36900
+    },
+    {
+      "electricRange": 111,
+      "baseMSRP": 33950
+    },
+    {
+      "electricRange": 208,
+      "baseMSRP": 69900
+    },
+    {
+      "electricRange": 208,
+      "baseMSRP": 69900
+    },
+    {
+      "electricRange": 208,
+      "baseMSRP": 69900
+    },
+    {
+      "electricRange": 208,
+      "baseMSRP": 69900
+    },
+    {
+      "electricRange": 14,
+      "baseMSRP": 45600
+    },
+    {
+      "electricRange": 93,
+      "baseMSRP": 31950
+    },
+    {
+      "electricRange": 208,
+      "baseMSRP": 69900
+    },
+    {
+      "electricRange": 265,
+      "baseMSRP": 59900
+    },
+    {
+      "electricRange": 111,
+      "baseMSRP": 33950
+    },
+    {
+      "electricRange": 12,
+      "baseMSRP": 36900
+    },
+    {
+      "electricRange": 93,
+      "baseMSRP": 31950
+    },
+    {
+      "electricRange": 93,
+      "baseMSRP": 31950
+    },
+    {
+      "electricRange": 17,
+      "baseMSRP": 52900
+    },
+    {
+      "electricRange": 208,
+      "baseMSRP": 69900
+    },
+    {
+      "electricRange": 32,
+      "baseMSRP": 39995
+    },
+    {
+      "electricRange": 12,
+      "baseMSRP": 36900
+    },
+    {
+      "electricRange": 93,
+      "baseMSRP": 31950
+    },
+    {
+      "electricRange": 265,
+      "baseMSRP": 59900
+    },
+    {
+      "electricRange": 14,
+      "baseMSRP": 184400
+    },
+    {
+      "electricRange": 208,
+      "baseMSRP": 69900
+    },
+    {
+      "electricRange": 208,
+      "baseMSRP": 69900
+    },
+    {
+      "electricRange": 93,
+      "baseMSRP": 32250
+    },
+    {
+      "electricRange": 208,
+      "baseMSRP": 69900
+    },
+    {
+      "electricRange": 93,
+      "baseMSRP": 32250
+    },
+    {
+      "electricRange": 93,
+      "baseMSRP": 32250
+    },
+    {
+      "electricRange": 14,
+      "baseMSRP": 54950
+    },
+    {
+      "electricRange": 208,
+      "baseMSRP": 69900
+    },
+    {
+      "electricRange": 208,
+      "baseMSRP": 69900
+    },
+    {
+      "electricRange": 208,
+      "baseMSRP": 69900
+    },
+    {
+      "electricRange": 208,
+      "baseMSRP": 69900
+    },
+    {
+      "electricRange": 208,
+      "baseMSRP": 69900
+    },
+    {
+      "electricRange": 208,
+      "baseMSRP": 69900
+    },
+    {
+      "electricRange": 93,
+      "baseMSRP": 31950
+    },
+    {
+      "electricRange": 208,
+      "baseMSRP": 69900
+    },
+    {
+      "electricRange": 208,
+      "baseMSRP": 69900
+    },
+    {
+      "electricRange": 17,
+      "baseMSRP": 34995
+    },
+    {
+      "electricRange": 208,
+      "baseMSRP": 69900
+    },
+    {
+      "electricRange": 208,
+      "baseMSRP": 69900
+    },
+    {
+      "electricRange": 208,
+      "baseMSRP": 69900
+    },
+    {
+      "electricRange": 208,
+      "baseMSRP": 69900
+    },
+    {
+      "electricRange": 93,
+      "baseMSRP": 31950
+    },
+    {
+      "electricRange": 16,
+      "baseMSRP": 52650
+    },
+    {
+      "electricRange": 265,
+      "baseMSRP": 59900
+    },
+    {
+      "electricRange": 208,
+      "baseMSRP": 69900
+    },
+    {
+      "electricRange": 19,
+      "baseMSRP": 64950
+    },
+    {
+      "electricRange": 111,
+      "baseMSRP": 33950
+    },
+    {
+      "electricRange": 208,
+      "baseMSRP": 69900
+    },
+    {
+      "electricRange": 208,
+      "baseMSRP": 69900
+    },
+    {
+      "electricRange": 208,
+      "baseMSRP": 69900
+    },
+    {
+      "electricRange": 208,
+      "baseMSRP": 69900
+    },
+    {
+      "electricRange": 17,
+      "baseMSRP": 52900
+    },
+    {
+      "electricRange": 19,
+      "baseMSRP": 64950
+    },
+    {
+      "electricRange": 208,
+      "baseMSRP": 69900
+    },
+    {
+      "electricRange": 208,
+      "baseMSRP": 69900
+    },
+    {
+      "electricRange": 208,
+      "baseMSRP": 69900
+    },
+    {
+      "electricRange": 208,
+      "baseMSRP": 69900
+    },
+    {
+      "electricRange": 208,
+      "baseMSRP": 69900
+    },
+    {
+      "electricRange": 208,
+      "baseMSRP": 69900
+    },
+    {
+      "electricRange": 208,
+      "baseMSRP": 69900
+    },
+    {
+      "electricRange": 93,
+      "baseMSRP": 31950
+    },
+    {
+      "electricRange": 93,
+      "baseMSRP": 31950
+    },
+    {
+      "electricRange": 12,
+      "baseMSRP": 36800
+    },
+    {
+      "electricRange": 208,
+      "baseMSRP": 69900
+    },
+    {
+      "electricRange": 111,
+      "baseMSRP": 33950
+    },
+    {
+      "electricRange": 208,
+      "baseMSRP": 69900
+    },
+    {
+      "electricRange": 14,
+      "baseMSRP": 45600
+    },
+    {
+      "electricRange": 208,
+      "baseMSRP": 69900
+    },
+    {
+      "electricRange": 208,
+      "baseMSRP": 69900
+    },
+    {
+      "electricRange": 111,
+      "baseMSRP": 33950
+    },
+    {
+      "electricRange": 208,
+      "baseMSRP": 69900
+    },
+    {
+      "electricRange": 17,
+      "baseMSRP": 52900
+    },
+    {
+      "electricRange": 93,
+      "baseMSRP": 31950
+    },
+    {
+      "electricRange": 17,
+      "baseMSRP": 52900
+    },
+    {
+      "electricRange": 15,
+      "baseMSRP": 55700
+    },
+    {
+      "electricRange": 208,
+      "baseMSRP": 69900
+    },
+    {
+      "electricRange": 208,
+      "baseMSRP": 69900
+    },
+    {
+      "electricRange": 19,
+      "baseMSRP": 64950
+    },
+    {
+      "electricRange": 208,
+      "baseMSRP": 69900
+    },
+    {
+      "electricRange": 208,
+      "baseMSRP": 69900
+    },
+    {
+      "electricRange": 208,
+      "baseMSRP": 69900
+    },
+    {
+      "electricRange": 16,
+      "baseMSRP": 52650
+    },
+    {
+      "electricRange": 208,
+      "baseMSRP": 69900
+    },
+    {
+      "electricRange": 17,
+      "baseMSRP": 52900
+    },
+    {
+      "electricRange": 93,
+      "baseMSRP": 31950
+    },
+    {
+      "electricRange": 16,
+      "baseMSRP": 52650
+    },
+    {
+      "electricRange": 93,
+      "baseMSRP": 31950
+    },
+    {
+      "electricRange": 14,
+      "baseMSRP": 44100
+    },
+    {
+      "electricRange": 208,
+      "baseMSRP": 69900
+    },
+    {
+      "electricRange": 208,
+      "baseMSRP": 69900
+    },
+    {
+      "electricRange": 208,
+      "baseMSRP": 69900
+    },
+    {
+      "electricRange": 208,
+      "baseMSRP": 69900
+    },
+    {
+      "electricRange": 111,
+      "baseMSRP": 33950
+    },
+    {
+      "electricRange": 14,
+      "baseMSRP": 54950
+    },
+    {
+      "electricRange": 93,
+      "baseMSRP": 31950
+    },
+    {
+      "electricRange": 93,
+      "baseMSRP": 31950
+    },
+    {
+      "electricRange": 111,
+      "baseMSRP": 33950
+    },
+    {
+      "electricRange": 208,
+      "baseMSRP": 69900
+    },
+    {
+      "electricRange": 208,
+      "baseMSRP": 69900
+    },
+    {
+      "electricRange": 17,
+      "baseMSRP": 52900
+    },
+    {
+      "electricRange": 93,
+      "baseMSRP": 31950
+    },
+    {
+      "electricRange": 208,
+      "baseMSRP": 69900
+    },
+    {
+      "electricRange": 12,
+      "baseMSRP": 36800
+    },
+    {
+      "electricRange": 12,
+      "baseMSRP": 36900
+    },
+    {
+      "electricRange": 17,
+      "baseMSRP": 52900
+    },
+    {
+      "electricRange": 208,
+      "baseMSRP": 69900
+    },
+    {
+      "electricRange": 208,
+      "baseMSRP": 69900
+    },
+    {
+      "electricRange": 12,
+      "baseMSRP": 36900
+    },
+    {
+      "electricRange": 208,
+      "baseMSRP": 69900
+    },
+    {
+      "electricRange": 208,
+      "baseMSRP": 69900
+    },
+    {
+      "electricRange": 208,
+      "baseMSRP": 69900
+    },
+    {
+      "electricRange": 208,
+      "baseMSRP": 69900
+    },
+    {
+      "electricRange": 208,
+      "baseMSRP": 69900
+    },
+    {
+      "electricRange": 17,
+      "baseMSRP": 52900
+    },
+    {
+      "electricRange": 17,
+      "baseMSRP": 52900
+    },
+    {
+      "electricRange": 208,
+      "baseMSRP": 69900
+    },
+    {
+      "electricRange": 208,
+      "baseMSRP": 69900
+    },
+    {
+      "electricRange": 208,
+      "baseMSRP": 69900
+    },
+    {
+      "electricRange": 93,
+      "baseMSRP": 32250
+    },
+    {
+      "electricRange": 208,
+      "baseMSRP": 69900
+    },
+    {
+      "electricRange": 265,
+      "baseMSRP": 59900
+    },
+    {
+      "electricRange": 208,
+      "baseMSRP": 69900
+    },
+    {
+      "electricRange": 12,
+      "baseMSRP": 36800
+    },
+    {
+      "electricRange": 208,
+      "baseMSRP": 69900
+    },
+    {
+      "electricRange": 19,
+      "baseMSRP": 64950
+    },
+    {
+      "electricRange": 208,
+      "baseMSRP": 69900
+    },
+    {
+      "electricRange": 93,
+      "baseMSRP": 31950
+    },
+    {
+      "electricRange": 19,
+      "baseMSRP": 64950
+    },
+    {
+      "electricRange": 208,
+      "baseMSRP": 69900
+    },
+    {
+      "electricRange": 17,
+      "baseMSRP": 52900
+    },
+    {
+      "electricRange": 93,
+      "baseMSRP": 31950
+    },
+    {
+      "electricRange": 32,
+      "baseMSRP": 39995
+    },
+    {
+      "electricRange": 17,
+      "baseMSRP": 52900
+    },
+    {
+      "electricRange": 93,
+      "baseMSRP": 32250
+    },
+    {
+      "electricRange": 265,
+      "baseMSRP": 59900
+    },
+    {
+      "electricRange": 208,
+      "baseMSRP": 69900
+    },
+    {
+      "electricRange": 93,
+      "baseMSRP": 32250
+    },
+    {
+      "electricRange": 208,
+      "baseMSRP": 69900
+    },
+    {
+      "electricRange": 93,
+      "baseMSRP": 31950
+    },
+    {
+      "electricRange": 265,
+      "baseMSRP": 59900
+    },
+    {
+      "electricRange": 208,
+      "baseMSRP": 69900
+    },
+    {
+      "electricRange": 93,
+      "baseMSRP": 31950
+    },
+    {
+      "electricRange": 111,
+      "baseMSRP": 33950
+    },
+    {
+      "electricRange": 208,
+      "baseMSRP": 69900
+    },
+    {
+      "electricRange": 265,
+      "baseMSRP": 59900
+    },
+    {
+      "electricRange": 208,
+      "baseMSRP": 69900
+    },
+    {
+      "electricRange": 208,
+      "baseMSRP": 69900
+    },
+    {
+      "electricRange": 17,
+      "baseMSRP": 52900
+    },
+    {
+      "electricRange": 17,
+      "baseMSRP": 52900
+    },
+    {
+      "electricRange": 265,
+      "baseMSRP": 59900
+    },
+    {
+      "electricRange": 93,
+      "baseMSRP": 31950
+    },
+    {
+      "electricRange": 265,
+      "baseMSRP": 59900
+    },
+    {
+      "electricRange": 208,
+      "baseMSRP": 69900
+    },
+    {
+      "electricRange": 208,
+      "baseMSRP": 69900
+    },
+    {
+      "electricRange": 31,
+      "baseMSRP": 75095
+    },
+    {
+      "electricRange": 93,
+      "baseMSRP": 31950
+    },
+    {
+      "electricRange": 111,
+      "baseMSRP": 33950
+    },
+    {
+      "electricRange": 208,
+      "baseMSRP": 69900
+    },
+    {
+      "electricRange": 93,
+      "baseMSRP": 31950
+    },
+    {
+      "electricRange": 15,
+      "baseMSRP": 55700
+    },
+    {
+      "electricRange": 208,
+      "baseMSRP": 69900
+    },
+    {
+      "electricRange": 17,
+      "baseMSRP": 52900
+    },
+    {
+      "electricRange": 17,
+      "baseMSRP": 52900
+    },
+    {
+      "electricRange": 111,
+      "baseMSRP": 33950
+    },
+    {
+      "electricRange": 19,
+      "baseMSRP": 64950
+    },
+    {
+      "electricRange": 93,
+      "baseMSRP": 31950
+    },
+    {
+      "electricRange": 208,
+      "baseMSRP": 69900
+    },
+    {
+      "electricRange": 19,
+      "baseMSRP": 64950
+    },
+    {
+      "electricRange": 208,
+      "baseMSRP": 69900
+    },
+    {
+      "electricRange": 208,
+      "baseMSRP": 69900
+    },
+    {
+      "electricRange": 208,
+      "baseMSRP": 69900
+    },
+    {
+      "electricRange": 208,
+      "baseMSRP": 69900
+    },
+    {
+      "electricRange": 111,
+      "baseMSRP": 33950
+    },
+    {
+      "electricRange": 93,
+      "baseMSRP": 32250
+    },
+    {
+      "electricRange": 93,
+      "baseMSRP": 32250
+    },
+    {
+      "electricRange": 17,
+      "baseMSRP": 52900
+    },
+    {
+      "electricRange": 93,
+      "baseMSRP": 31950
+    },
+    {
+      "electricRange": 265,
+      "baseMSRP": 59900
+    },
+    {
+      "electricRange": 208,
+      "baseMSRP": 69900
+    },
+    {
+      "electricRange": 208,
+      "baseMSRP": 69900
+    },
+    {
+      "electricRange": 16,
+      "baseMSRP": 52650
+    },
+    {
+      "electricRange": 208,
+      "baseMSRP": 69900
+    },
+    {
+      "electricRange": 12,
+      "baseMSRP": 36800
+    },
+    {
+      "electricRange": 208,
+      "baseMSRP": 69900
+    },
+    {
+      "electricRange": 17,
+      "baseMSRP": 52900
+    },
+    {
+      "electricRange": 12,
+      "baseMSRP": 36900
+    },
+    {
+      "electricRange": 93,
+      "baseMSRP": 32250
+    },
+    {
+      "electricRange": 208,
+      "baseMSRP": 69900
+    },
+    {
+      "electricRange": 208,
+      "baseMSRP": 69900
+    },
+    {
+      "electricRange": 208,
+      "baseMSRP": 69900
+    },
+    {
+      "electricRange": 14,
+      "baseMSRP": 54950
+    },
+    {
+      "electricRange": 16,
+      "baseMSRP": 52650
+    },
+    {
+      "electricRange": 208,
+      "baseMSRP": 69900
+    },
+    {
+      "electricRange": 208,
+      "baseMSRP": 69900
+    },
+    {
+      "electricRange": 17,
+      "baseMSRP": 34995
+    },
+    {
+      "electricRange": 208,
+      "baseMSRP": 69900
+    },
+    {
+      "electricRange": 15,
+      "baseMSRP": 55700
+    },
+    {
+      "electricRange": 93,
+      "baseMSRP": 31950
+    },
+    {
+      "electricRange": 208,
+      "baseMSRP": 69900
+    },
+    {
+      "electricRange": 265,
+      "baseMSRP": 59900
+    },
+    {
+      "electricRange": 14,
+      "baseMSRP": 44100
+    },
+    {
+      "electricRange": 17,
+      "baseMSRP": 52900
+    },
+    {
+      "electricRange": 93,
+      "baseMSRP": 32250
+    },
+    {
+      "electricRange": 14,
+      "baseMSRP": 43700
+    },
+    {
+      "electricRange": 208,
+      "baseMSRP": 69900
+    },
+    {
+      "electricRange": 265,
+      "baseMSRP": 59900
+    },
+    {
+      "electricRange": 111,
+      "baseMSRP": 33950
+    },
+    {
+      "electricRange": 208,
+      "baseMSRP": 69900
+    },
+    {
+      "electricRange": 17,
+      "baseMSRP": 52900
+    },
+    {
+      "electricRange": 208,
+      "baseMSRP": 69900
+    },
+    {
+      "electricRange": 208,
+      "baseMSRP": 69900
+    },
+    {
+      "electricRange": 208,
+      "baseMSRP": 69900
+    },
+    {
+      "electricRange": 17,
+      "baseMSRP": 52900
+    },
+    {
+      "electricRange": 111,
+      "baseMSRP": 33950
+    },
+    {
+      "electricRange": 208,
+      "baseMSRP": 69900
+    },
+    {
+      "electricRange": 17,
+      "baseMSRP": 52900
+    },
+    {
+      "electricRange": 17,
+      "baseMSRP": 34995
+    },
+    {
+      "electricRange": 14,
+      "baseMSRP": 45600
+    },
+    {
+      "electricRange": 17,
+      "baseMSRP": 34995
+    },
+    {
+      "electricRange": 208,
+      "baseMSRP": 69900
+    },
+    {
+      "electricRange": 245,
+      "baseMSRP": 110950
+    },
+    {
+      "electricRange": 14,
+      "baseMSRP": 45600
+    },
+    {
+      "electricRange": 93,
+      "baseMSRP": 31950
+    },
+    {
+      "electricRange": 93,
+      "baseMSRP": 32250
+    },
+    {
+      "electricRange": 12,
+      "baseMSRP": 36800
+    },
+    {
+      "electricRange": 15,
+      "baseMSRP": 55700
+    },
+    {
+      "electricRange": 14,
+      "baseMSRP": 54950
+    },
+    {
+      "electricRange": 19,
+      "baseMSRP": 64950
+    },
+    {
+      "electricRange": 265,
+      "baseMSRP": 59900
+    },
+    {
+      "electricRange": 14,
+      "baseMSRP": 54950
+    },
+    {
+      "electricRange": 32,
+      "baseMSRP": 39995
+    },
+    {
+      "electricRange": 32,
+      "baseMSRP": 39995
+    },
+    {
+      "electricRange": 17,
+      "baseMSRP": 52900
+    },
+    {
+      "electricRange": 14,
+      "baseMSRP": 45600
+    },
+    {
+      "electricRange": 15,
+      "baseMSRP": 55700
+    },
+    {
+      "electricRange": 208,
+      "baseMSRP": 69900
+    },
+    {
+      "electricRange": 208,
+      "baseMSRP": 69900
+    },
+    {
+      "electricRange": 265,
+      "baseMSRP": 59900
+    },
+    {
+      "electricRange": 208,
+      "baseMSRP": 69900
+    },
+    {
+      "electricRange": 14,
+      "baseMSRP": 44100
+    },
+    {
+      "electricRange": 265,
+      "baseMSRP": 59900
+    },
+    {
+      "electricRange": 208,
+      "baseMSRP": 69900
+    },
+    {
+      "electricRange": 14,
+      "baseMSRP": 44100
+    },
+    {
+      "electricRange": 208,
+      "baseMSRP": 69900
+    },
+    {
+      "electricRange": 208,
+      "baseMSRP": 69900
+    },
+    {
+      "electricRange": 14,
+      "baseMSRP": 90700
+    },
+    {
+      "electricRange": 208,
+      "baseMSRP": 69900
+    },
+    {
+      "electricRange": 208,
+      "baseMSRP": 69900
+    },
+    {
+      "electricRange": 208,
+      "baseMSRP": 69900
+    },
+    {
+      "electricRange": 93,
+      "baseMSRP": 31950
+    },
+    {
+      "electricRange": 14,
+      "baseMSRP": 44100
+    },
+    {
+      "electricRange": 33,
+      "baseMSRP": 102000
+    },
+    {
+      "electricRange": 220,
+      "baseMSRP": 98950
+    },
+    {
+      "electricRange": 208,
+      "baseMSRP": 69900
+    },
+    {
+      "electricRange": 14,
+      "baseMSRP": 54950
+    },
+    {
+      "electricRange": 208,
+      "baseMSRP": 69900
+    },
+    {
+      "electricRange": 208,
+      "baseMSRP": 69900
+    },
+    {
+      "electricRange": 208,
+      "baseMSRP": 69900
+    },
+    {
+      "electricRange": 208,
+      "baseMSRP": 69900
+    },
+    {
+      "electricRange": 17,
+      "baseMSRP": 52900
+    },
+    {
+      "electricRange": 17,
+      "baseMSRP": 52900
+    },
+    {
+      "electricRange": 12,
+      "baseMSRP": 36900
+    },
+    {
+      "electricRange": 12,
+      "baseMSRP": 36800
+    },
+    {
+      "electricRange": 265,
+      "baseMSRP": 59900
+    },
+    {
+      "electricRange": 93,
+      "baseMSRP": 31950
+    },
+    {
+      "electricRange": 208,
+      "baseMSRP": 69900
+    },
+    {
+      "electricRange": 17,
+      "baseMSRP": 52900
+    },
+    {
+      "electricRange": 17,
+      "baseMSRP": 52900
+    },
+    {
+      "electricRange": 208,
+      "baseMSRP": 69900
+    },
+    {
+      "electricRange": 14,
+      "baseMSRP": 54950
+    },
+    {
+      "electricRange": 208,
+      "baseMSRP": 69900
+    },
+    {
+      "electricRange": 14,
+      "baseMSRP": 45600
+    },
+    {
+      "electricRange": 14,
+      "baseMSRP": 54950
+    },
+    {
+      "electricRange": 208,
+      "baseMSRP": 69900
+    },
+    {
+      "electricRange": 208,
+      "baseMSRP": 69900
+    },
+    {
+      "electricRange": 93,
+      "baseMSRP": 31950
+    },
+    {
+      "electricRange": 208,
+      "baseMSRP": 69900
+    },
+    {
+      "electricRange": 208,
+      "baseMSRP": 69900
+    },
+    {
+      "electricRange": 14,
+      "baseMSRP": 45600
+    },
+    {
+      "electricRange": 14,
+      "baseMSRP": 54950
+    },
+    {
+      "electricRange": 14,
+      "baseMSRP": 45600
+    },
+    {
+      "electricRange": 93,
+      "baseMSRP": 31950
+    },
+    {
+      "electricRange": 17,
+      "baseMSRP": 52900
+    },
+    {
+      "electricRange": 19,
+      "baseMSRP": 64950
+    },
+    {
+      "electricRange": 17,
+      "baseMSRP": 52900
+    },
+    {
+      "electricRange": 14,
+      "baseMSRP": 44100
+    },
+    {
+      "electricRange": 17,
+      "baseMSRP": 52900
+    },
+    {
+      "electricRange": 93,
+      "baseMSRP": 32250
+    },
+    {
+      "electricRange": 32,
+      "baseMSRP": 39995
+    },
+    {
+      "electricRange": 93,
+      "baseMSRP": 31950
+    },
+    {
+      "electricRange": 208,
+      "baseMSRP": 69900
+    },
+    {
+      "electricRange": 93,
+      "baseMSRP": 31950
+    },
+    {
+      "electricRange": 208,
+      "baseMSRP": 69900
+    },
+    {
+      "electricRange": 12,
+      "baseMSRP": 36800
+    },
+    {
+      "electricRange": 208,
+      "baseMSRP": 69900
+    },
+    {
+      "electricRange": 15,
+      "baseMSRP": 55700
+    },
+    {
+      "electricRange": 17,
+      "baseMSRP": 52900
+    },
+    {
+      "electricRange": 15,
+      "baseMSRP": 55700
+    },
+    {
+      "electricRange": 14,
+      "baseMSRP": 44100
+    },
+    {
+      "electricRange": 265,
+      "baseMSRP": 59900
+    },
+    {
+      "electricRange": 208,
+      "baseMSRP": 69900
+    },
+    {
+      "electricRange": 14,
+      "baseMSRP": 184400
+    },
+    {
+      "electricRange": 17,
+      "baseMSRP": 52900
+    },
+    {
+      "electricRange": 208,
+      "baseMSRP": 69900
+    },
+    {
+      "electricRange": 208,
+      "baseMSRP": 69900
+    },
+    {
+      "electricRange": 208,
+      "baseMSRP": 69900
+    },
+    {
+      "electricRange": 93,
+      "baseMSRP": 32250
+    },
+    {
+      "electricRange": 208,
+      "baseMSRP": 69900
+    },
+    {
+      "electricRange": 265,
+      "baseMSRP": 59900
+    },
+    {
+      "electricRange": 265,
+      "baseMSRP": 59900
+    },
+    {
+      "electricRange": 208,
+      "baseMSRP": 69900
+    },
+    {
+      "electricRange": 208,
+      "baseMSRP": 69900
+    },
+    {
+      "electricRange": 93,
+      "baseMSRP": 32250
+    },
+    {
+      "electricRange": 32,
+      "baseMSRP": 39995
+    },
+    {
+      "electricRange": 19,
+      "baseMSRP": 64950
+    },
+    {
+      "electricRange": 17,
+      "baseMSRP": 52900
+    },
+    {
+      "electricRange": 17,
+      "baseMSRP": 52900
+    },
+    {
+      "electricRange": 14,
+      "baseMSRP": 45600
+    },
+    {
+      "electricRange": 208,
+      "baseMSRP": 69900
+    },
+    {
+      "electricRange": 32,
+      "baseMSRP": 39995
+    },
+    {
+      "electricRange": 208,
+      "baseMSRP": 69900
+    },
+    {
+      "electricRange": 93,
+      "baseMSRP": 31950
+    },
+    {
+      "electricRange": 17,
+      "baseMSRP": 52900
+    },
+    {
+      "electricRange": 265,
+      "baseMSRP": 59900
+    },
+    {
+      "electricRange": 208,
+      "baseMSRP": 69900
+    },
+    {
+      "electricRange": 14,
+      "baseMSRP": 45600
+    },
+    {
+      "electricRange": 16,
+      "baseMSRP": 52650
+    },
+    {
+      "electricRange": 33,
+      "baseMSRP": 102000
+    },
+    {
+      "electricRange": 208,
+      "baseMSRP": 69900
+    },
+    {
+      "electricRange": 208,
+      "baseMSRP": 69900
+    },
+    {
+      "electricRange": 208,
+      "baseMSRP": 69900
+    },
+    {
+      "electricRange": 208,
+      "baseMSRP": 69900
+    },
+    {
+      "electricRange": 93,
+      "baseMSRP": 32250
+    },
+    {
+      "electricRange": 265,
+      "baseMSRP": 59900
+    },
+    {
+      "electricRange": 208,
+      "baseMSRP": 69900
+    },
+    {
+      "electricRange": 14,
+      "baseMSRP": 54950
+    },
+    {
+      "electricRange": 93,
+      "baseMSRP": 31950
+    },
+    {
+      "electricRange": 17,
+      "baseMSRP": 34995
+    },
+    {
+      "electricRange": 208,
+      "baseMSRP": 69900
+    },
+    {
+      "electricRange": 14,
+      "baseMSRP": 54950
+    },
+    {
+      "electricRange": 208,
+      "baseMSRP": 69900
+    },
+    {
+      "electricRange": 208,
+      "baseMSRP": 69900
+    },
+    {
+      "electricRange": 93,
+      "baseMSRP": 31950
+    },
+    {
+      "electricRange": 208,
+      "baseMSRP": 69900
+    },
+    {
+      "electricRange": 208,
+      "baseMSRP": 69900
+    },
+    {
+      "electricRange": 208,
+      "baseMSRP": 69900
+    },
+    {
+      "electricRange": 208,
+      "baseMSRP": 69900
+    },
+    {
+      "electricRange": 208,
+      "baseMSRP": 69900
+    },
+    {
+      "electricRange": 208,
+      "baseMSRP": 69900
+    },
+    {
+      "electricRange": 208,
+      "baseMSRP": 69900
+    },
+    {
+      "electricRange": 208,
+      "baseMSRP": 69900
+    },
+    {
+      "electricRange": 16,
+      "baseMSRP": 52650
+    }
+  ]
+}

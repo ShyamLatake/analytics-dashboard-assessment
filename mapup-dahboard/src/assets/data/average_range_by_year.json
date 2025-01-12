@@ -1,0 +1,84 @@
+{
+  "averageRangeByYear": [
+    {
+      "year": 1998,
+      "averageRange": 58
+    },
+    {
+      "year": 2000,
+      "averageRange": 58
+    },
+    {
+      "year": 2002,
+      "averageRange": 95
+    },
+    {
+      "year": 2008,
+      "averageRange": 220
+    },
+    {
+      "year": 2010,
+      "averageRange": 245
+    },
+    {
+      "year": 2011,
+      "averageRange": 72.77889447236181
+    },
+    {
+      "year": 2012,
+      "averageRange": 71.99230769230769
+    },
+    {
+      "year": 2013,
+      "averageRange": 83.33187772925764
+    },
+    {
+      "year": 2014,
+      "averageRange": 84.36652078774617
+    },
+    {
+      "year": 2015,
+      "averageRange": 100.27567140600316
+    },
+    {
+      "year": 2016,
+      "averageRange": 104.25
+    },
+    {
+      "year": 2017,
+      "averageRange": 115.41758241758242
+    },
+    {
+      "year": 2018,
+      "averageRange": 160.29374389051807
+    },
+    {
+      "year": 2019,
+      "averageRange": 180.57081545064378
+    },
+    {
+      "year": 2020,
+      "averageRange": 242.02006079027356
+    },
+    {
+      "year": 2021,
+      "averageRange": 11.085517505261144
+    },
+    {
+      "year": 2022,
+      "averageRange": 4.132471521822604
+    },
+    {
+      "year": 2023,
+      "averageRange": 4.309332380441903
+    },
+    {
+      "year": 2024,
+      "averageRange": 17.860019175455417
+    },
+    {
+      "year": null,
+      "averageRange": null
+    }
+  ]
+}
