@@ -8,7 +8,7 @@
     "build": "node src/parseCSV.mjs && tsc -b && vite build",
     "lint": "eslint .",
     "preview": "vite preview",
-    "dev-build": "node scripts/convertCSV.js && react-scripts build"
+    "dev-build": "node src/parseCSV.mjs && react-scripts build"
   },
   "dependencies": {
     "@shadcn/ui": "^0.0.4",
