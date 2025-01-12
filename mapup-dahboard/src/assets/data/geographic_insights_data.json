@@ -1,0 +1,25 @@
+{
+  "countiesData": {
+    "King": 37502,
+    "Snohomish": 2553,
+    "Kitsap": 2154,
+    "Thurston": 1524,
+    "Yakima": 306,
+    "Island": 152,
+    "Chelan": 5,
+    "Skagit": 4,
+    "Spokane": 3,
+    "Walla Walla": 4,
+    "Grant": 6,
+    "Stevens": 33,
+    "Whitman": 5,
+    "Kittitas": 3,
+    "Pend Oreille": 1,
+    "Clark": 4838,
+    "Cowlitz": 440,
+    "Jefferson": 393,
+    "Clallam": 53,
+    "Klickitat": 21,
+    "undefined": 1
+  }
+}

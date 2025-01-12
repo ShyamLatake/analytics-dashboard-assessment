@@ -1,0 +1,84 @@
+{
+  "evsOverTime": [
+    {
+      "year": 1998,
+      "totalEVs": 1
+    },
+    {
+      "year": 2000,
+      "totalEVs": 1
+    },
+    {
+      "year": 2002,
+      "totalEVs": 1
+    },
+    {
+      "year": 2008,
+      "totalEVs": 2
+    },
+    {
+      "year": 2010,
+      "totalEVs": 10
+    },
+    {
+      "year": 2011,
+      "totalEVs": 199
+    },
+    {
+      "year": 2012,
+      "totalEVs": 390
+    },
+    {
+      "year": 2013,
+      "totalEVs": 1145
+    },
+    {
+      "year": 2014,
+      "totalEVs": 914
+    },
+    {
+      "year": 2015,
+      "totalEVs": 1266
+    },
+    {
+      "year": 2016,
+      "totalEVs": 1468
+    },
+    {
+      "year": 2017,
+      "totalEVs": 2275
+    },
+    {
+      "year": 2018,
+      "totalEVs": 4092
+    },
+    {
+      "year": 2019,
+      "totalEVs": 3029
+    },
+    {
+      "year": 2020,
+      "totalEVs": 3290
+    },
+    {
+      "year": 2021,
+      "totalEVs": 5227
+    },
+    {
+      "year": 2022,
+      "totalEVs": 7813
+    },
+    {
+      "year": 2023,
+      "totalEVs": 16791
+    },
+    {
+      "year": 2024,
+      "totalEVs": 2086
+    },
+    {
+      "year": null,
+      "totalEVs": 1
+    }
+  ]
+}
