@@ -1,4 +1,3 @@
-import React from "react";
 import {
   LineChart,
   Line,
@@ -11,16 +10,17 @@ import {
 import geographicInsightsDataCity from "@/assets/data/geographic_insights_data_city.json";
 
 const EVByCityLineChart: React.FC = () => {
-  const transformedData = Object.entries(geographicInsightsDataCity.citiesData).map(
-    ([city, count]) => ({
-      city,
-      count,
-    })
-  );
+  const transformedData = Object.entries(geographicInsightsDataCity.citiesData)
+  .filter(([city]) => city !== "undefined")
+  .map(([city, count]) => ({
+    city,
+    count,
+  }));
+
 
   console.log("transformedData", transformedData);
   return (
-    <div className="m-6">
+    <div className="md:m-6">
       <ResponsiveContainer width="100%" height={400}>
         <LineChart data={transformedData}>
           <CartesianGrid strokeDasharray="3 3" />

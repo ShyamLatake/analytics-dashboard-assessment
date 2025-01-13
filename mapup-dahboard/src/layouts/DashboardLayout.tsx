@@ -14,12 +14,10 @@ const DashboardLayout: React.FC<DashboardLayoutProps> = ({ children }) => {
 
       <div className="flex flex-1">
         {/* Sidebar */}
-        <Sidebar isVisible={false} toggleSidebar={function (): void {
-          throw new Error("Function not implemented.");
-        } } />
+        <Sidebar isVisible={false}  />
 
         {/* Main Content */}
-        <main className="flex-1 p-6">
+        <main className="flex-1 md:p-4">
           {/* Render route-specific children */}
           {children}
         </main>

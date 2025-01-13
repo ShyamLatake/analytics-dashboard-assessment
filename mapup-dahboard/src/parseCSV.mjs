@@ -12,9 +12,7 @@ let vehicleData;
 // Function to convert CSV to JSON and save it locally
 export const convertCSVToJSON = () => {
   try {
-    // Resolve CSV file path using relative path from __dirname
     const csvFilePath = path.resolve(__dirname, './assets/Electric_Vehicle_Population_Data.csv');
-    console.log('Resolved CSV Path:', csvFilePath);
 
     // Read CSV file
     const csvData = fs.readFileSync(csvFilePath, 'utf8');
@@ -36,7 +34,6 @@ export const convertCSVToJSON = () => {
     // Write JSON data to file
     const outputPath = path.resolve(outputDir, 'vehicle_population_data.json');
     fs.writeFileSync(outputPath, JSON.stringify(vehicleData, null, 2));
-    console.log('CSV converted to JSON successfully!');
     
     // Generate additional JSON files
     generateOverviewData();
@@ -56,21 +53,21 @@ export const convertCSVToJSON = () => {
   }
 };
 
-// Function to generate Overview Data and store it in JSON
 const generateOverviewData = () => {
   const totalEVs = vehicleData.length;
 
   const averageRange = vehicleData.reduce((sum, vehicle) => sum + (vehicle['Electric Range'] || 0), 0) / totalEVs;
   
-  // Handle missing MSRP values by defaulting to 0 if not available
   const averageMSRP = vehicleData.reduce((sum, vehicle) => sum + (vehicle['Base MSRP'] || 0), 0) / totalEVs;
 
-  // Handle EV types correctly
   const evTypes = vehicleData.reduce((acc, vehicle) => {
     const evType = vehicle['Electric Vehicle Type'];
-    acc[evType] = (acc[evType] || 0) + 1;
+    if (evType !== undefined) {
+      acc[evType] = (acc[evType] || 0) + 1;
+    }
     return acc;
   }, {});
+  
 
 
   const overviewData = { totalEVs, averageRange, averageMSRP, evTypes };
@@ -80,10 +77,9 @@ const generateOverviewData = () => {
 
 };
 
-// Function to generate Analytics Data and store it in JSON
 const generateAnalyticsData = () => {
   const electricRangeTrends = vehicleData.reduce((acc, vehicle) => {
-    const year = vehicle['Model Year']; // Make sure this matches your data
+    const year = vehicle['Model Year']; 
     if (!acc[year]) acc[year] = [];
     acc[year].push(vehicle['Electric Range'] || 0); // Default to 0 if missing
     return acc;
@@ -100,7 +96,6 @@ const generateAnalyticsData = () => {
 
   const outputPath = path.resolve(__dirname, './assets/data/analytics_data.json');
   fs.writeFileSync(outputPath, JSON.stringify(analyticsData, null, 2));
-  console.log('Analytics data saved!');
 };
 
 const getPriceVsRangeAnalysis = () => {
@@ -119,7 +114,6 @@ const getPriceVsRangeAnalysis = () => {
   fs.writeFileSync(outputPath, JSON.stringify({ analysisData }, null, 2));
 };
 
-// Function to generate Vehicle Insights Data and store it in JSON
 const generateVehicleInsightsData = () => {
   const makeModelSplit = vehicleData.reduce((acc, vehicle) => {
     const key = `${vehicle.make} ${vehicle.model}`;
@@ -137,10 +131,8 @@ const generateVehicleInsightsData = () => {
 
   const outputPath = path.resolve(__dirname, './assets/data/vehicle_insights_data.json');
   fs.writeFileSync(outputPath, JSON.stringify(vehicleInsightsData, null, 2));
-  console.log('Vehicle Insights data saved!');
 };
 
-// Function to generate Geographic Insights Data and store it in JSON
 const generateGeographicInsightsData = () => {
   const countiesData = vehicleData.reduce((acc, vehicle) => {
     const county = vehicle["County"];

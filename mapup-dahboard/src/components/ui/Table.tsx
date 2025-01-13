@@ -4,13 +4,10 @@ import { TableProps, TableData } from "@/utils/interfaces/dataHandling";
 const Table: React.FC<TableProps> = ({ data, rowsPerPage = 10 }) => {
   const [currentPage, setCurrentPage] = useState(1);
 
-  // Fields to include in the table
   const fieldsToShow = ["Sr. No.", "VIN (1-10)", "County", "City", "State", "Postal Code"];
 
-  // Calculate total pages
   const totalPages = Math.ceil(data.length / rowsPerPage);
 
-  // Get data for the current page
   const currentData = data.slice(
     (currentPage - 1) * rowsPerPage,
     currentPage * rowsPerPage

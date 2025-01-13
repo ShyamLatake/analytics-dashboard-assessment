@@ -2,24 +2,15 @@ import React from 'react';
 import { FaHome, FaChartBar } from 'react-icons/fa';
 
 interface SidebarProps {
-  isVisible: boolean; // Controls sidebar visibility
-  toggleSidebar: () => void; // Function to toggle visibility
+  isVisible: boolean; 
 }
 
-const Sidebar: React.FC<SidebarProps> = ({ isVisible, toggleSidebar }) => {
+const Sidebar: React.FC<SidebarProps> = ({ isVisible }) => {
   return (
     <aside
       className={`fixed top-0 left-0 h-[40vh] border-2 w-64 bg-white-800 border-indigo-500/50 text-white rounded-2xl p-4 m-6 z-20 transform transition-transform duration-300 ease-in-out 
         ${isVisible ? "translate-x-0" : "-translate-x-[130%]"} md:translate-x-0 md:relative`}
     >
-      {/* Close Button for Mobile */}
-      <button
-        onClick={toggleSidebar}
-        className="absolute top-4 right-4 md:hidden text-gray-400 hover:text-white text-2xl"
-      >
-        ✕
-      </button>
-
       <nav className="flex flex-col space-y-6">
       <ul>
         <li>
