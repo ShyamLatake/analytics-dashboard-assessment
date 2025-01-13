@@ -96,7 +96,13 @@ export default tseslint.config({
   },
 })
 ```
-## What Idone 
+
+## As You Mention make the Repo private 
+I got this For security reasons, you cannot change the visibility of a fork.
+
+![alt text](image.png)
+
+## What I done 
 
 CSV to JSON Transformation: A script (parseCsv.mjs) converts the provided CSV file into a JSON format for easier manipulation.
 
