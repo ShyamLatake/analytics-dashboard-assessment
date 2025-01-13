@@ -21,8 +21,8 @@ const Analytics: React.FC = () => {
   const msrpTrends = processTrendData(msrpTrendsRaw);
   const electricRangeTrends = processTrendData(electricRangeTrendsRaw);
   return (
-    <section id="analytics" className="p-4">
-      <h2 className="text-2xl font-bold mb-4">Analytics</h2>
+    <section id="analytics">
+      <h2 className="text-2xl font-bold my-4 text-center md:text-left">Analytics</h2>
       <div className="grid grid-cols-1 md:grid-cols-2 gap-4 m-2">
         <div className="bg-white shadow rounded p-4">
           <h3 className="font-semibold mb-0">Price vs. Electric Range Analysis</h3>

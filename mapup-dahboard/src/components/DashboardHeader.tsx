@@ -2,43 +2,45 @@ import React, { useEffect, useRef, useState } from "react";
 import { Link } from "react-router-dom";
 
 const DashboardHeader: React.FC = () => {
-  const [theme, setTheme] = useState<string>("browser");
-  const [isThemeMenuOpen, setIsThemeMenuOpen] = useState<boolean>(false);
-  const [isHamburgerMenuOpen, setIsHamburgerMenuOpen] = useState<boolean>(false);
-  const themeMenuRef = useRef<HTMLDivElement>(null);
+  // const [theme, setTheme] = useState<string>("browser");
+  // const [isThemeMenuOpen, setIsThemeMenuOpen] = useState<boolean>(false);
+  const [isHamburgerMenuOpen, setIsHamburgerMenuOpen] =
+    useState<boolean>(false);
+  // const themeMenuRef = useRef<HTMLDivElement>(null);
   const hamburgerMenuRef = useRef<HTMLDivElement>(null);
 
   // Load theme from localStorage or default to "browser"
   useEffect(() => {
-    const savedTheme = localStorage.getItem("theme") || "browser";
-    setTheme(savedTheme);
-    applyTheme(savedTheme);
+    // const savedTheme = localStorage.getItem("theme") || "browser";
+    // setTheme(savedTheme);
+    // applyTheme(savedTheme);
   }, []);
 
-  const applyTheme = (theme: string) => {
-    if (theme === "dark") {
-      document.documentElement.classList.add("dark");
-    } else if (theme === "light") {
-      document.documentElement.classList.remove("dark");
-    } else {
-      const prefersDark = window.matchMedia("(prefers-color-scheme: dark)").matches;
-      if (prefersDark) {
-        document.documentElement.classList.add("dark");
-      } else {
-        document.documentElement.classList.remove("dark");
-      }
-    }
-  };
+  // const applyTheme = (theme: string) => {
+  //   if (theme === "dark") {
+  //     document.documentElement.classList.add("dark");
+  //   } else if (theme === "light") {
+  //     document.documentElement.classList.remove("dark");
+  //   } else {
+  //     const prefersDark = window.matchMedia("(prefers-color-scheme: dark)").matches;
+  //     if (prefersDark) {
+  //       document.documentElement.classList.add("dark");
+  //     } else {
+  //       document.documentElement.classList.remove("dark");
+  //     }
+  //   }
+  // };
 
   // Close menus when clicking outside
   useEffect(() => {
     const handleClickOutside = (event: MouseEvent) => {
-      if (
-        themeMenuRef.current &&
-        !themeMenuRef.current.contains(event.target as Node)
-      ) {
-        setIsThemeMenuOpen(false);
-      }
+      // if (
+      //   themeMenuRef.current &&
+      //   !themeMenuRef.current.contains(event.target as Node)
+      // ) {
+      //   setIsThemeMenuOpen(false);
+      // }
+
       if (
         hamburgerMenuRef.current &&
         !hamburgerMenuRef.current.contains(event.target as Node)
@@ -52,6 +54,9 @@ const DashboardHeader: React.FC = () => {
       document.removeEventListener("mousedown", handleClickOutside);
     };
   }, []);
+  const handleMenuClose = () => {
+    setIsHamburgerMenuOpen(false);
+  };
 
   return (
     <header className="flex items-center justify-between bg-white dark:bg-gray-800 shadow p-4">
@@ -65,7 +70,7 @@ const DashboardHeader: React.FC = () => {
       </div>
 
       {/* Theme Toggle Button */}
-      <div className="relative">
+      {/* <div className="relative">
         <button
           onClick={() => setIsThemeMenuOpen((prev) => !prev)}
           className="flex items-center justify-center w-10 h-10 rounded-full bg-gray-200 dark:bg-gray-700 hover:bg-gray-300 dark:hover:bg-gray-600 focus:outline-none"
@@ -90,7 +95,7 @@ const DashboardHeader: React.FC = () => {
             </h3>
             <div className="space-y-2">
               {/* Theme Options */}
-              {["light", "dark", "browser"].map((mode) => (
+      {/*  {["light", "dark", "browser"].map((mode) => (
                 <label
                   key={mode}
                   className="flex items-center cursor-pointer my-4"
@@ -116,7 +121,7 @@ const DashboardHeader: React.FC = () => {
             </div>
           </div>
         )}
-      </div>
+      </div> */}
 
       {/* Hamburger Menu */}
       <div className="relative md:hidden">
@@ -139,6 +144,7 @@ const DashboardHeader: React.FC = () => {
                   <Link
                     to="/"
                     className="block text-gray-700 dark:text-gray-200 hover:text-blue-500 dark:hover:text-blue-400"
+                    onClick={handleMenuClose}
                   >
                     Dashboard
                   </Link>
@@ -147,6 +153,7 @@ const DashboardHeader: React.FC = () => {
                   <Link
                     to="/analytics"
                     className="block text-gray-700 dark:text-gray-200 hover:text-blue-500 dark:hover:text-blue-400"
+                    onClick={handleMenuClose}
                   >
                     Analytics
                   </Link>
@@ -155,6 +162,7 @@ const DashboardHeader: React.FC = () => {
                   <Link
                     to="/geographic"
                     className="block text-gray-700 dark:text-gray-200 hover:text-blue-500 dark:hover:text-blue-400"
+                    onClick={handleMenuClose}
                   >
                     Geographic Insights
                   </Link>

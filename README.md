@@ -96,6 +96,52 @@ export default tseslint.config({
   },
 })
 ```
-For the UI part i used shadcn lib
-and for the css part i used tailwind 
+## What Idone 
 
+CSV to JSON Transformation: A script (parseCsv.mjs) converts the provided CSV file into a JSON format for easier manipulation.
+
+API Simulations: The larger JSON dataset is split into smaller, modular JSON files, mimicking API responses.
+
+Interactive Visualizations: Data visualizations are built with the Recharts library for effective analytics.
+
+Responsive Design: Tailwind CSS ensures the dashboard works seamlessly across devices.
+
+## Tech Stack
+
+Frontend Framework: React.js
+
+Styling: Tailwind CSS
+
+Charts & Graphs: Recharts
+
+Build Tools: Vite
+
+Project Workflow
+
+## CSV Processing:
+
+A script (parseCsv.mjs) processes the provided CSV file and converts it to a structured JSON format.
+
+The structured JSON file is split into smaller, modular files to simulate API endpoints.
+
+## Frontend Development:
+
+React.js was used to build the dynamic and interactive user interface.
+
+Tailwind CSS was utilized for responsive and modern styling.
+
+Recharts was integrated for displaying data visualizations such as bar charts, line charts, and pie charts.
+
+
+## Deployment
+I run the parseCV.mjs script so it can create the responces needed for the charts.
+
+Command :- node src/parseCSV.mjs && tsc -b && vite build
+Above command is used for running the script
+
+Deployed using Vite for optimized builds on the render.
+
+
+## Live Demo LINK
+
+https://analytics-dashboard-assessment-bzgi.onrender.com

@@ -4,7 +4,6 @@
   "averageMSRP": 1072.987840243195,
   "evTypes": {
     "Battery Electric Vehicle (BEV)": 39461,
-    "Plug-in Hybrid Electric Vehicle (PHEV)": 10539,
-    "undefined": 1
+    "Plug-in Hybrid Electric Vehicle (PHEV)": 10539
   }
 }

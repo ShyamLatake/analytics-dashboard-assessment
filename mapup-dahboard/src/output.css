@@ -629,16 +629,8 @@ video {
   right: 0.5rem;
 }
 
-.right-4 {
-  right: 1rem;
-}
-
 .top-0 {
   top: 0px;
-}
-
-.top-4 {
-  top: 1rem;
 }
 
 .z-20 {
@@ -1291,11 +1283,6 @@ button:focus-visible {
   color: rgb(31 41 55 / var(--tw-text-opacity, 1));
 }
 
-.hover\:text-white:hover {
-  --tw-text-opacity: 1;
-  color: rgb(255 255 255 / var(--tw-text-opacity, 1));
-}
-
 .focus\:outline-none:focus {
   outline: 2px solid transparent;
   outline-offset: 2px;
@@ -1335,6 +1322,10 @@ button:focus-visible {
     position: relative;
   }
 
+  .md\:m-6 {
+    margin: 1.5rem;
+  }
+
   .md\:hidden {
     display: none;
   }
@@ -1350,6 +1341,10 @@ button:focus-visible {
 
   .md\:grid-cols-4 {
     grid-template-columns: repeat(4, minmax(0, 1fr));
+  }
+
+  .md\:p-4 {
+    padding: 1rem;
   }
 
   .md\:text-left {

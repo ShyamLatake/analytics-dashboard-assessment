@@ -20,7 +20,6 @@ const Dashboard = () => {
         Overview Board
       </h1>
       <div className="max-w-7xl mx-auto px-6 py-8">
-        {/* Overview Cards */}
         {overviewData ? (
           <div className="grid grid-cols-1 sm:grid-cols-2 md:grid-cols-4 gap-6 mb-12">
             {[
@@ -55,7 +54,7 @@ const Dashboard = () => {
               </h3>
               <ul className="mt-4 space-y-2">
                 
-                {Object.entries(overviewData.evTypes).map(([type, count]) => (
+                {Object.entries(overviewData.evTypes).filter(([city]) => city !== "undefined").map(([type, count]) => (
                   <li
                     key={type}
                     className="flex justify-between text-sm font-medium text-gray-700"
@@ -73,7 +72,6 @@ const Dashboard = () => {
       </div>
 
       <div className="max-w-7xl mx-auto px-6 py-4 space-y-12">
-        {/* Line Chart: Total Electric Vehicles */}
         <div className="bg-white shadow-lg rounded-xl p-6">
           <h3 className="text-xl font-semibold text-gray-800 mb-0">Total Electric Vehicles Over Time</h3>
           <p className="mb-4">This chart illustrates the growth of electric vehicles (EVs) from 1998 to 2024.</p>
