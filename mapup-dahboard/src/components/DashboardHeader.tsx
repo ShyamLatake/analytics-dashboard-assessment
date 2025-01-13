@@ -1,9 +1,12 @@
 import React, { useEffect, useRef, useState } from "react";
+import { Link } from "react-router-dom";
 
 const DashboardHeader: React.FC = () => {
   const [theme, setTheme] = useState<string>("browser");
-  const [isMenuOpen, setIsMenuOpen] = useState<boolean>(false);
-  const menuRef = useRef<HTMLDivElement>(null);
+  const [isThemeMenuOpen, setIsThemeMenuOpen] = useState<boolean>(false);
+  const [isHamburgerMenuOpen, setIsHamburgerMenuOpen] = useState<boolean>(false);
+  const themeMenuRef = useRef<HTMLDivElement>(null);
+  const hamburgerMenuRef = useRef<HTMLDivElement>(null);
 
   // Load theme from localStorage or default to "browser"
   useEffect(() => {
@@ -12,7 +15,6 @@ const DashboardHeader: React.FC = () => {
     applyTheme(savedTheme);
   }, []);
 
-  // Apply the selected theme to the document
   const applyTheme = (theme: string) => {
     if (theme === "dark") {
       document.documentElement.classList.add("dark");
@@ -28,19 +30,20 @@ const DashboardHeader: React.FC = () => {
     }
   };
 
-  // Handle theme selection
-  const handleThemeChange = (selectedTheme: string) => {
-    setTheme(selectedTheme);
-    localStorage.setItem("theme", selectedTheme);
-    applyTheme(selectedTheme);
-    setIsMenuOpen(false); // Close the menu after selection
-  };
-
-  // Close the popup when clicking outside
+  // Close menus when clicking outside
   useEffect(() => {
     const handleClickOutside = (event: MouseEvent) => {
-      if (menuRef.current && !menuRef.current.contains(event.target as Node)) {
-        setIsMenuOpen(false);
+      if (
+        themeMenuRef.current &&
+        !themeMenuRef.current.contains(event.target as Node)
+      ) {
+        setIsThemeMenuOpen(false);
+      }
+      if (
+        hamburgerMenuRef.current &&
+        !hamburgerMenuRef.current.contains(event.target as Node)
+      ) {
+        setIsHamburgerMenuOpen(false);
       }
     };
 
@@ -61,9 +64,10 @@ const DashboardHeader: React.FC = () => {
         </p>
       </div>
 
+      {/* Theme Toggle Button */}
       <div className="relative">
         <button
-          onClick={() => setIsMenuOpen((prev) => !prev)}
+          onClick={() => setIsThemeMenuOpen((prev) => !prev)}
           className="flex items-center justify-center w-10 h-10 rounded-full bg-gray-200 dark:bg-gray-700 hover:bg-gray-300 dark:hover:bg-gray-600 focus:outline-none"
           aria-label="Toggle Theme"
         >
@@ -76,70 +80,87 @@ const DashboardHeader: React.FC = () => {
           )}
         </button>
 
-        {isMenuOpen && (
+        {isThemeMenuOpen && (
           <div
-            ref={menuRef}
-            className="absolute right-2 mt-2 w-64 bg-white dark:bg-gray-800 shadow-lg rounded-lg border border-gray-200 dark:border-gray-700 p-4"
+            ref={themeMenuRef}
+            className="absolute z-40 right-2 mt-2 w-48 bg-white dark:bg-gray-800 shadow-lg rounded-lg border border-gray-200 dark:border-gray-700 p-4"
           >
             <h3 className="text-lg font-semibold text-gray-700 dark:text-gray-200 mb-3">
               Select Theme
             </h3>
             <div className="space-y-2">
-              <label className="flex items-center cursor-pointer my-4">
-                <input
-                  type="radio"
-                  name="theme"
-                  value="light"
-                  checked={theme === "light"}
-                  onChange={() => handleThemeChange("light")}
-                  className="form-radio h-4 w-4 text-blue-500"
-                />
-                <img
-                  src="src/assets/theme/light-mode.svg"
-                  alt="Light Mode"
-                  className="mx-2 w-6 h-6"
-                />
-                <span className="ml-2 text-gray-700 dark:text-gray-300">
-                  Light
-                </span>
-              </label>
-              <label className="flex items-center cursor-pointer my-4">
-                <input
-                  type="radio"
-                  name="theme"
-                  value="dark"
-                  checked={theme === "dark"}
-                  onChange={() => handleThemeChange("dark")}
-                  className="form-radio h-4 w-4 text-blue-500"
-                />
-                <img
-                  src="src/assets/theme/dark-mode.svg"
-                  alt="Dark Mode"
-                  className="mx-2 w-6 h-6"
-                />
-                <span className="ml-2 text-gray-700 dark:text-gray-300">
-                  Dark
-                </span>
-              </label>
-              <label className="flex items-center cursor-pointer my-4">
-                <input
-                  type="radio"
-                  name="theme"
-                  value="browser"
-                  checked={theme === "browser"}
-                  onChange={() => handleThemeChange("browser")}
-                  className="form-radio h-4 w-4 text-blue-500"
-                />
-                <img
-                  src="src/assets/theme/match-browser.svg"
-                  alt="Match Browser"
-                  className="mx-2 w-6 h-6"
-                />
-                <span className="ml-2 text-gray-700 dark:text-gray-300">
-                  Match Browser
-                </span>
-              </label>
+              {/* Theme Options */}
+              {["light", "dark", "browser"].map((mode) => (
+                <label
+                  key={mode}
+                  className="flex items-center cursor-pointer my-4"
+                >
+                  <input
+                    type="radio"
+                    name="theme"
+                    value={mode}
+                    checked={theme === mode}
+                    onChange={() => {
+                      setTheme(mode);
+                      localStorage.setItem("theme", mode);
+                      applyTheme(mode);
+                      setIsThemeMenuOpen(false);
+                    }}
+                    className="form-radio h-4 w-4 text-blue-500"
+                  />
+                  <span className="ml-2 text-gray-700 dark:text-gray-300">
+                    {mode.charAt(0).toUpperCase() + mode.slice(1)}
+                  </span>
+                </label>
+              ))}
             </div>
+          </div>
+        )}
+      </div>
+
+      {/* Hamburger Menu */}
+      <div className="relative md:hidden">
+        <button
+          onClick={() => setIsHamburgerMenuOpen((prev) => !prev)}
+          className="flex items-center justify-center w-10 h-10 rounded-full bg-gray-200 dark:bg-gray-700 hover:bg-gray-300 dark:hover:bg-gray-600 focus:outline-none"
+          aria-label="Open Menu"
+        >
+          <span className="text-gray-800 dark:text-gray-200">☰</span>
+        </button>
+
+        {isHamburgerMenuOpen && (
+          <div
+            ref={hamburgerMenuRef}
+            className="absolute right-2 z-40 mt-2 w-48 bg-white dark:bg-gray-800 shadow-lg rounded-lg border border-gray-200 dark:border-gray-700 p-4"
+          >
+            <nav>
+              <ul className="space-y-2">
+                <li>
+                  <Link
+                    to="/"
+                    className="block text-gray-700 dark:text-gray-200 hover:text-blue-500 dark:hover:text-blue-400"
+                  >
+                    Dashboard
+                  </Link>
+                </li>
+                <li>
+                  <Link
+                    to="/analytics"
+                    className="block text-gray-700 dark:text-gray-200 hover:text-blue-500 dark:hover:text-blue-400"
+                  >
+                    Analytics
+                  </Link>
+                </li>
+                <li>
+                  <Link
+                    to="/geographic"
+                    className="block text-gray-700 dark:text-gray-200 hover:text-blue-500 dark:hover:text-blue-400"
+                  >
+                    Geographic Insights
+                  </Link>
+                </li>
+              </ul>
+            </nav>
           </div>
         )}
       </div>
